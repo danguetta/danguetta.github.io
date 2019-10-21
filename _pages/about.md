@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /about.htm
 ---
 
 I am a Senior Lecturer at the [Decision, Risk, and Operations](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) Division of the [Columbia Business School](https://www8.gsb.columbia.edu/). I am also Director of the [Columbia Business Analytics Initiative](https://analytics.columbia.edu/), a joint initiative of the DRO Division at the Business School and the [Industrial Engineering and Operations Reseach](ieor.columbia.edu) in the School of Engineering.
