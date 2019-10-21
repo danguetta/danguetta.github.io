@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a Senior Lecturer in Discipline in the [Decision, Risk, and Operations](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) Division at the [Columbia Business School](https://www8.gsb.columbia.edu/). I am also Director of the [Columbia Business Analytics Initiative](https://analytics.columbia.edu/), a joint initiative of the DRO Division at the Business School and the [Industrial Engineering and Operations Reseach](ieor.columbia.edu) in the School of Engineering.
+
+I **design and teach** a broad range of analytics classes aimed at students in the [MBA](https://www8.gsb.columbia.edu/programs/mba), [Executive MBA](https://www8.gsb.columbia.edu/programs/executive-mba), and [Masters of Engineering](https://ieor.columbia.edu/masters) programs at Columbia, as executive education seminars [at Columbia](https://www8.gsb.columbia.edu/execed/) and for private companies. My focus is one bridging the world
+
+My **research** 
+
+As the **director of the Business Analytics Initiative**, I
 
 A data-driven personal website
 ======
