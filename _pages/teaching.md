@@ -12,13 +12,15 @@ Naturally, there is overlap between these populations, but I roughly divide my c
 * [**Engineering and PhD classes**](#engineering-and-phd-classes) focused on teaching more advanced analytics to students with a solid background in deterministic and stochastic modeling. The focus here is on cutting-edge analytics as well as on the challenges inherently involved in separating the hype from the substance and applying these techniques in the real world.
 * [**Online classes**](#online-classes), focused on bringing the study of these topics to a broader audience.
 
+I lack the words to describe how much I love teaching and course design. My only gripe is that unlike research, designing a class is often a very solitary activity, and so I always seek opportunities to collaborate on classes and teaching material - be in touch if that is of interest!
+
 ---
 
 ## MBA and EMBA classes
 
 I teach or have taught the following classes
-* **Business Analytics**
-* **Business Analytics 2**
+* **Business Analytics** is part of the Columbia Business School core class, and introduces our students to the fundamentals of Business Analytics. The course is designed and maintained by the entire DRO division. Latest syllabus here.
+* **Business Analytics 2** is a follow-on to Business Analytics that I designed and taught for the first time in the Fall of 2018; I designed [XLKitLearn](/xlkitlearn) in parallel, and use it extensively in the class. Within 6 months, it grew to become a "staple elective" - I teach 6-7 sections of the class per year, and demand far outstrips supply. Latest syllabus here, and plenty of material available here.
 * **Analytics in Action**
 * **The Analytics Advantage**
 

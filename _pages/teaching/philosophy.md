@@ -19,6 +19,9 @@ For this same reason, I only ever make attendance compulsory as a way to "nudge"
 
 I am fortunate to get to teach a truly exceptional set of students, most of whom are very impressive in their own right, and I think of them as colleagues rather than subordinates. In light of this, my initial impulse when I started teaching was to use a light touch - no hard deadline for assignments, no requirement to come on time, and 
 
+
+But there is a delicate balance - if I do things  I try to never forget that whatever authority I have in the classroom is only obtained by conse
+
 There is a delicate balance here - I never want to cross the line and become a tyrant, but if
 
 
