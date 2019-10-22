@@ -12,7 +12,7 @@ I roughly divide my classes into three categories
 * [Engineering and PhD classes](#engineering-and-phd-classes)
 * [Online classes](#online-classes)
 
-I lack the words to describe how much I love teaching and course design. My only gripe is that unlike research, designing a class is often a very solitary activity, and so I always seek opportunities to collaborate on classes and teaching material - be in touch if this is of interest.
+I lack the words to describe how much I love teaching and course design. My only gripe is that unlike research, designing a class is often a very solitary activity, and so I always welcome opportunities to collaborate on classes and teaching material.
 
 Over the course of my studying and teaching, I've developed a number of reasonably strong opinions which could loosely be described as my teaching philosophy, summarized [here](/teaching/philosophy).
 
@@ -36,13 +36,16 @@ I have TAed the following classes in the past
 
 These classes are focused on teaching more advanced analytics to students with a solid background in deterministic and stochastic modeling. The focus here is on cutting-edge analytics as well as on the challenges inherently involved in separating the hype from the substance and applying these techniques in the real world.
 
-I currently teach the following classes
-* **Business Analytics**
-* **Demand Analytics**
+I currently teach the following classes at Columbia
+* **Business Analytics** is the engineering equivalent to the Business Analytics core class described above. Whereas the MBA class is a 1.5 credit, half-semester class, this class is a 3 credit full-semester class. The additional lectures are spent covering the basics of the R programming language, and covering more advanced topics. Syllabus [here](/files/teaching/eng_ba_syllabus.pdf).
+* **Demand Analytics** is a class that covers the fundamentals of pricing and consumer choice models. Syllabus [here](/files/teaching/da/syllabus.pdf), and some material available here.
 * **Analytics in Action** see the [MBA and EMBA](#mba-and-emba-classes) section above.
 
 I TAed the following classes in the past
 * **Convex Optimization** (Columbia) was a class I TAed for [Prof Garud Iyengar](https://ieor.columbia.edu/faculty/garud-iyengar). I designed a number of review sessions for the class; [contents](/files/teaching/convex_opt/Read me.txt), reviews [1](/files/teaching/convex_opt/R1.pdf), [2](/files/teaching/convex_opt/R2.pdf), [3](/files/teaching/convex_opt/R3.pdf), [4](/files/teaching/convex_opt/R4.pdf), [5](/files/teaching/convex_opt/R5.pdf), [7](/files/teaching/convex_opt/R7.pdf), and [midterm review](/files/teaching/convex_opt/Midterm.pdf).
+* **Part IA Physics** (University of Cambridge)
+* **Course 8.02 (Electromagnetism)** (MIT)
+* **Course 8.01 (Classical Mechanics)** (MIT)
 
 ## Online classes
 
