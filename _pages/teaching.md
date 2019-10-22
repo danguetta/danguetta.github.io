@@ -12,7 +12,7 @@ I roughly divide my classes into three categories
 * [Engineering and PhD classes](#engineering-and-phd-classes)
 * [Online classes](#online-classes)
 
-I lack the words to describe how much I love teaching and course design. My only gripe is that unlike research, designing a class is often a very solitary activity, and so I always welcome opportunities to collaborate on classes and teaching material.
+I lack the words to describe how much I love teaching and course design. My only gripe is that unlike research, designing a class is often a very solitary activity, and so I always welcome opportunities to collaborate on classes and teaching material. In particular, you are welcome to use any of the material on this website for your own teaching, provided you reach out to let me know you're using it (I'm also happy to answer questions and provide support).
 
 Over the course of my studying and teaching, I've developed a number of reasonably strong opinions which could loosely be described as my teaching philosophy, summarized [here](/teaching/philosophy).
 
@@ -27,6 +27,8 @@ I currently teach the following classes at Columbia
 * **Business Analytics 2** is a follow-on to Business Analytics that I designed and taught for the first time in the Fall of 2018; I designed [XLKitLearn](/xlkitlearn) in parallel, and use it extensively in the class. Within 6 months, this class grew to become a "staple elective" - I teach 6-7 sections of the class per year, and demand far outstrips supply. Latest syllabus here, and plenty of material available here.
 * **Analytics in Action** is a project-based class I teach with [Brett Martin](https://www.linkedin.com/in/brettlucasmartin). We bring groups of roughly 3 MBAs and 2 engineers together, and pair them with companies with whom they work on data-driven projects under our supervision. I give short vignettes on Data Science at the start of every lecture, but most of the class comprises office hours working on specific projects. Here is a matplotlib cheatsheet I produced for this class.
 * **The Analytics Advantage** is a class I coordinate, but do not teach in. The class focuses on how analytics have generated value in a broad range of industries. Each class is taught by a different faculty member with specific subject matter expertise and focuses on one specific industry and on how it has been transformed through the use of analytics.
+
+I also teach a number of executive education seminars on business analytics (the material for this class is a joint effort with my colleagues which prevents from more sharing it) and pricing (select material available here).
 
 I have TAed the following classes in the past
 * **Managerial Statistics** (Columbia) introduces students to the rudiments of frequentist statistics, including probability, normal distributions, confidence intervals and hypothesis tests. I prepared a number of "cheat sheets" for us in the course on [confidence intervals](/files/teaching/stats/CI.pdf), [hypothesis tests](/files/teaching/stats/HT.pdf), [understanding Excel's regression output](/files/teaching/stats/Reg.pdf), and [looking up t-values and z-values in statistical tables](/files/teaching/stats/Tables.pdf).
@@ -50,5 +52,5 @@ I TAed the following classes in the past
 ## Online classes
 
 I have taught the following classes
-* **Demand and Supply Analytics on EdX**
-* **Python for Managers** with Emeritus, co-taught with Mattan Griffel.
+* **Demand and Supply Analytics on EdX** is an online version of my Demand Analytics class (see [Engineering and PhD classes](#engineering-and-phd-classes)), with the addition of some supply-chain content. This class has thus far been taken by thousands of students with very positive reviews. The class is available on EdX [here](https://www.edx.org/course/demand-and-supply-analytics).
+* **Python for Managers** with Emeritus, co-taught with Mattan Griffel. This class is designed to provide an introduction to Python for MBAs who have never coded before. The first part of the class (taught by Mattan) focuses on Python fundamentals such as data types, control structures, functions, and packages. The second part of the class (which I teach) focuses on Pandas for data analysis, including a section of web scraping and the use of APIs. See [here](https://www8.gsb.columbia.edu/execed/program-pages/details/2995/PMO?sourceid=LeftNav) for the course page on Columbia's website.
