@@ -9,8 +9,6 @@ redirect_from:
   - /about.htm
 ---
 
-{% include toc %}
-
 I am a Senior Lecturer at the [Decision, Risk, and Operations](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) Division of the [Columbia Business School](https://www8.gsb.columbia.edu/). I am also Director of the [Columbia Business Analytics Initiative](https://analytics.columbia.edu/), a joint initiative of the DRO Division at the Business School and the [Industrial Engineering and Operations Reseach](ieor.columbia.edu) in the School of Engineering.
 
 I **design and teach** a broad range of analytics classes aimed at students in the [MBA](https://www8.gsb.columbia.edu/programs/mba), [Executive MBA](https://www8.gsb.columbia.edu/programs/executive-mba), and [Masters of Engineering](https://ieor.columbia.edu/masters) programs at Columbia, as well as executive education seminars [at Columbia](https://www8.gsb.columbia.edu/execed/) and for private companies. As well as on-campus classes, my work includes Columbia Engineering's [EdX class on Demand and Supply Analytics](https://www.edx.org/course/demand-and-supply-analytics) and Columbia Business School's online class [Python for Managers](https://www8.gsb.columbia.edu/execed/program-pages/details/2995/PMO?sourceid=LeftNav). I am also the author of [XLKitLearn](https://danguetta.github.io/xlkitlearn), a tool designed to bridge Excel and Python in the context of data science.
