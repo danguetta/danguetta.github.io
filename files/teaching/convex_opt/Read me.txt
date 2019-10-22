@@ -1,0 +1,6 @@
+Review session 1 - convex sets, convex cones, dual cones, etc...
+Review session 2 - convex functions, convex conjugates, simple application to risk measures.
+Review session 3 - convex programs in standard form (LP, QP, QCQP, SOCP and SDP) with applications, including sparse and robust optimization (one small part of the proof is omitted). Will get to it ASAP.
+Review session 4 - duality, with applications (including adversarial optimization).
+Review sessions 5 and 6 - various applications of SDPs, introduction to infinite-dimensional optimization.
+Review sessions 7 and 8 - more infinite-dimensional optimization; Banach spaces.

@@ -30,7 +30,7 @@ I currently teach the following classes at Columbia
 
 I have TAed the following classes in the past
 * **Managerial Statistics** (Columbia) introduces students to the rudiments of frequentist statistics, including probability, normal distributions, confidence intervals and hypothesis tests. I prepared a number of "cheat sheets" for us in the course on [confidence intervals](/files/teaching/stats/CI.pdf), [hypothesis tests](/files/teaching/stats/HT.pdf), [understanding Excel's regression output](/files/teaching/stats/Reg.pdf), and [looking up t-values and z-values in statistical tables](/files/teaching/stats/Tables.pdf).
-* **Decision Models** (Columbia) introduced MBA students to optimization and simulation using Risk Solver Platform in Excel (this is since been replaced by Business Analytics, above). I wrote some review sessions to help clarify concepts and provide some practice; [here](/files/teaching/dm/reviews.zip) they are, with solutions (Excel files require [Risk Solver platform](https://www.solver.com/risk-solver%C2%AE-platform)). I also prepared a [presentation](/files/teaching/dm/CI.ppt) to review confidence intervals.
+* **Decision Models** (Columbia) introduced MBA students to optimization and simulation using Risk Solver Platform in Excel (this is since been replaced by Business Analytics, above). I wrote some review sessions to help clarify concepts and provide some practice; here they are, with solutions (Excel files require [Risk Solver platform](https://www.solver.com/risk-solver%C2%AE-platform)) - review 1 ([pdf](/files/teaching/dm/R1.pdf), [xls](/files/teaching/dm/R1.xls)), 2 ([pdf](/files/teaching/dm/R2.pdf), [xls](/files/teaching/dm/R2.xls)), 3 ([pdf](/files/teaching/dm/R3.pdf), [xls](/files/teaching/dm/R3.xls)), 4 ([pdf](/files/teaching/dm/R4.pdf), [xls](/files/teaching/dm/R4.xls)), 5 ([pdf](/files/teaching/dm/R5.pdf), [xls](/files/teaching/dm/R5.xls)). I also prepared a [presentation](/files/teaching/dm/CI.ppt) to review confidence intervals.
 
 ## Engineering and PhD classes
 
@@ -42,7 +42,7 @@ I currently teach the following classes
 * **Analytics in Action** see the [MBA and EMBA](#mba-and-emba-classes) section above.
 
 I TAed the following classes in the past
-* **Convex Optimization** (Columbia) was a class I TAed for [Prof Garud Iyengar](https://ieor.columbia.edu/faculty/garud-iyengar). I designed a number of review sessions for the class, available [here](/files/teaching/convex_opt_reviews.zip) with solutions.
+* **Convex Optimization** (Columbia) was a class I TAed for [Prof Garud Iyengar](https://ieor.columbia.edu/faculty/garud-iyengar). I designed a number of review sessions for the class; [contents](/files/teaching/convex_opt/Read me.txt), reviews [1](/files/teaching/convex_opt/R1.pdf), [2](/files/teaching/convex_opt/R2.pdf), [3](/files/teaching/convex_opt/R3.pdf), [4](/files/teaching/convex_opt/R4.pdf), [5](/files/teaching/convex_opt/R5.pdf), [7](/files/teaching/convex_opt/R7.pdf), and [midterm review](/files/teaching/convex_opt/Midterm.pdf).
 
 ## Online classes
 
