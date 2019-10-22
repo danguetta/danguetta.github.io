@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I design and teach a broad range of analytics classes aimed at students in the [MBA](https://www8.gsb.columbia.edu/programs/mba), [Executive MBA](https://www8.gsb.columbia.edu/programs/executive-mba), and [Masters of Engineering](https://ieor.columbia.edu/masters) programs at Columbia.
+I design and teach a broad range of analytics classes aimed at students in the [MBA](https://www8.gsb.columbia.edu/programs/mba), [Executive MBA](https://www8.gsb.columbia.edu/programs/executive-mba), and [Masters of Engineering](https://ieor.columbia.edu/masters) programs at Columbia. Over the course of my studying and teaching, I've developed a number of reasonably strong opinions which could loosely be described as my teaching philosophy, summarized [here](/teaching/philosophy).
 
 Naturally, there is overlap between these populations, but I roughly divide my classes into four categories
 * **MBA and EMBA classes** focused on preparing tomorrow's managers to navigate an increasingly data driven world. This includes a whole gamut of classes, from more technical ones which teach the language of data science, to more qualitative ones discussing the broader landscape of analytics in industry, challenges inherent in managing and working with engineers, and basic analytic literacy.
