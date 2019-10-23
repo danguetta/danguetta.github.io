@@ -9,11 +9,11 @@ Over the course of my studying and teaching, I've developed a number of reasonab
 
 ## Value over alternatives
 
-Every student that takes my class represents a significant investment on their part - probably a financial investment, and at the very least an investment in time. My most important aim is to provide return on that investment, and perhaps less trivially to provide a greater return than they would get from other less expensive options.
+Every student that takes my class makes a significant investment - probably a financial investment, and at the very least an investment in time. I aim to provide a return on that investment, and perhaps less trivially a greater return than they would get from other less expensive options. Thus, I know I've failed if a student feels they could have gotten just as much from reading a book or taking an online class.
 
-Thus, I know I've failed if a student feels they could have gotten just as much from reading a book or taking an online class. What value can I provide over these alternatives? A few possibilities (1) if the topic is relatively new without any established textbooks, my choice of material and topics is often valuable in itself (2) teaching a way of thinking - watching someone thinking through a proof, or a new dataset, can teach students how to think in a certain way; I still fondly remember [Richard Samworth](http://www.statslab.cam.ac.uk/~rjs57/)'s in-class derivations (3) if I do a good job, class discussions can facilitate learning in a way that can't easily be matched by independent or online learning (4) where appropriate, I try to provide opportunities to present in class and receive feedback from me and the rest of the class (5) where appropriate, I try to opportunities to work in teams - ideally with team members with very different skillsets.
+How do I provide value over these alternatives? A few ways (1) if the topic is relatively new without any established textbooks, my choice of material and topics is often valuable in itself (2) teaching a way of thinking - watching someone thinking through a proof, or a new dataset, can teach students how to think in a certain way; I still fondly remember [Richard Samworth](http://www.statslab.cam.ac.uk/~rjs57/)'s in-class derivations (3) if I do a good job, class discussions can facilitate learning in a way that can't easily be matched by independent or online learning (4) where appropriate, I try to provide opportunities to present in class and receive feedback from me and the rest of the class (5) where appropriate, I provide opportunities to work in teams - ideally with team members with very different skillsets.
 
-For this same reason, I only ever make attendance compulsory as a way to "nudge" students to come to class in a world with many competing options. I have never refused to excuse a student's attendance when they've asked, and I never intend to - the onus is on _me_ to make students feel my class is worth coming to, not on them to come to satisfy some arbitrary grading requirement. (One exception: when there is not other way to differentiate students in assigning grades, I have no option but to use attendance).
+For this same reason, I only ever make attendance compulsory as a way to "nudge" students to come to class in a world with many competing options. I have never refused to excuse a student's absence when they've asked, and I never intend to - the onus is on _me_ to make students feel my class is worth coming to, not on them to come to satisfy some arbitrary grading requirement. (One exception: when there is no other way to differentiate students in assigning grades, I have no option but to use attendance).
 
 ## Providing structure
 
@@ -24,11 +24,9 @@ But there is a delicate balance - if I do things  I try to never forget that wha
 
 There is a delicate balance here - I never want to cross the line and become a tyrant, but if
 
-
-
 ## Slides are not textbooks
 
-If you can look at my slides and know _exactly_ what I'm going to say in class, then I've produced a textbook, not slides, and the slides are likely to distract from the point I'm trying to make. Ideally, slides are only there to support what I'm saying where needed.
+If you can look at my slides and know _exactly_ what I'm going to say in class, then I've produced a textbook, not slides, and they're likely to distract from the point I'm trying to make. Ideally, slides are only there to support what I'm saying where needed.
 
 ## Give a lot, get a lot
 

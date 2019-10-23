@@ -45,9 +45,9 @@ I currently teach the following classes at Columbia
 
 I TAed the following classes in the past
 * **Convex Optimization** (Columbia) was a class I TAed for [Prof Garud Iyengar](https://ieor.columbia.edu/faculty/garud-iyengar). I designed a number of review sessions for the class; [contents](/files/teaching/convex_opt/Read me.txt), reviews [1](/files/teaching/convex_opt/R1.pdf), [2](/files/teaching/convex_opt/R2.pdf), [3](/files/teaching/convex_opt/R3.pdf), [4](/files/teaching/convex_opt/R4.pdf), [5](/files/teaching/convex_opt/R5.pdf), [7](/files/teaching/convex_opt/R7.pdf), and [midterm review](/files/teaching/convex_opt/Midterm.pdf).
-* **Part IA Physics** (University of Cambridge)
-* **Course 8.02 (Electromagnetism)** (MIT)
-* **Course 8.01 (Classical Mechanics)** (MIT)
+* [**Part IA Physics**](/teaching/cambridge) (University of Cambridge)
+* [**Course 8.02 (Electromagnetism)**](/teaching/mit) (MIT)
+* [**Course 8.01 (Classical Mechanics)**](/teaching/mit) (MIT)
 
 ## Online classes
 
