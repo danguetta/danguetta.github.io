@@ -15,13 +15,3 @@ In my fourth year at Cambridge, I spent a considerably amount of time running ex
 * Miscellaneous
     - An [Excel simulation](/files/teaching/cam_physics/pashor.xls) of phasor diagrams
     - [Notes](/files/teaching/cam_physics/harmonicMotion.pdf) on simple harmonic motion
-
-
-
-Questions and solutions for my examples class on linear mechanics.
-Questions and solutions for my examples class on waves. Includes an excel demonstration of how phasor diagrams can be applied to Young's double slits, and also to two slits of finite width.
-Notes on harmonic motion.
-Solution to a particularly tricky quantum question (this was question 10 on the Lent 2010 waves and quantum waves example sheet).
-An excel simulation demonstrating phasor diagrams (you will need to have macros enabled to use this).
-Mock exam paper for the St John's College January exam, January 2010, and solutions. Results for the 13 students who sat the exam were: Mean 48%, median 43%, max 83%, min 17%. The most commonly answered question was 2, followed by 3 and 1.
-Handout of challenge problems.
