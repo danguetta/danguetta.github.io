@@ -14,8 +14,6 @@ I roughly divide my classes into three categories
 
 I lack the words to describe how much I love teaching and course design. My only gripe is that unlike research, designing a class is often a very solitary activity, and so I always welcome opportunities to collaborate on classes and teaching material. In particular, you are welcome to use any of the material on this website for your own teaching, provided you reach out to let me know you're using it (I'm also happy to answer questions and provide support).
 
-Over the course of my studying and teaching, I've developed a number of reasonably strong opinions which could loosely be described as my teaching philosophy, summarized [here](/teaching/philosophy).
-
 ---
 
 ## MBA and EMBA classes

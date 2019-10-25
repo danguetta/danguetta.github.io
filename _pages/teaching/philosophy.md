@@ -29,7 +29,7 @@ If you can look at my slides and know _exactly_ what I'm going to say in class, 
 
 ## Give a lot, get a lot
 
-In teaching - and in life, really - there can sometimes be a race to the bottom when it comes to commitment. If I tallow students to come to class a few minutes late, then maybe I can come a few minutes later. If I don't hold students to homework deadlines, then perhaps I can be slow posting the solutions. If I don't expect students to read the case, then I can get away with not thoroughly practicing every lecture.
+In teaching - and in life, really - there can sometimes be a race to the bottom when it comes to commitment. If I allow students to come to class a few minutes late, then maybe I can come a few minutes later. If I don't hold students to homework deadlines, then perhaps I can be slow posting the solutions. If I don't expect students to read the case, then I can get away with not thoroughly practicing every lecture.
 
 I try to avoid this spiral like the plague - I try to give all of myself when I teach a class (time, commitment, energy), and this allows me to expect such as much from my students.
 
@@ -49,6 +49,6 @@ To try and get the best of both worlds, the homework policy in all my classes is
 
 Much of the instant messaging revolution (I'm looking at you, Slack) is about reducing the friction inherent in communication. In some cases, this is great - when I'm working to a deadline with a team, being able to reach them quickly and efficiently is great.
 
-I argue, however, that in the context of teaching, you sometimes _want_ friction.
+I'd argue, however, that in the context of teaching, you sometimes _want_ friction.
 
 Since my first year teaching, I've never denied requests for time from students - if they want to see me, I'll make the time. I quickly found, however, that through no fault of their own, students would often show up without a clear idea of what they actually wanted to ask, leading to a lot of wasted time. My solution was to slightly _increase_ the friction and work required to get acess to my time - I ask students to send me a half-page summary of exactly what they're going to want to talk about, and what they've done so far to try and answer the question. I still get as many requests, but the efficiency gains are striking - meetings are shorter, and we spend the entire time actually answering the questions at hand.
