@@ -19,8 +19,13 @@ You are welcome to use XLKitLearn for free for any purpose, but every run will b
 
 # Installing the add-in
 
-Before you install the add-in, download 
+Before you install the add-in, download the [installation instructions](https://drive.google.com/file/d/1RxqeZLt66ncvISj7BMHX9b-p6nVeNaaH/view?usp=sharing) and the add-in [Excel file](https://drive.google.com/open?id=1SDXx_8OgWl0UZR16EGC64UPVogB_Mvg9). If you are installing the add-in on a PC, you will also need [this zip file](https://drive.google.com/open?id=18dW_KOKlQZm5vdkBk-WBWVc16S7DnKls).
 
 # Two quick demos
 
 # Why design a brand new tool?
+
+Before designing XLKitLearn, I did a broad search to see what other approaches existed to teach non-technical students data science. I found three broad approaches
+  - *Other Excel Add-ins*. A number of Excel add-ins that already exist; they function similarly to XLKitLearn, often with far more advanced functionality. I had two main concerns with using them, however, in order of importance (1) as far as I know, none of these add-ins are based on any widely-available ML libraries, and they do not make their code publicly available. This makes them very limiting - it's hard to know exactly what they're doing under the hood, and there's no way to go beyond the functionality they offer. I wanted an add-in that linked directly to scikitlearn (2) these add-ins typically only work natively on a PC, not on a Mac - an increasing number of my students use Mac computers, and find it cumbersome to install a parallels environment.
+  - *No code or hands-on work*. A perfectly respectable approach is simply to eschew all hands-on work, and simply present students with the _results_ of the algorithms for discussion. I think this is a perfectly respectable approach, but I wanted my class to include the excitement - and experience - of actually working with data.
+  - *Copy-pasted Code Segments*. Some classes I've seen take a 'code snippet' approach - they provide bits of Python or R code, and get students to copy and paste them. I'm not a fan of this method, and I think it the worst of all worlds. Having to worry about syntax provides less guidance to students, and make it harder to focus on the underlying principles. It also gives students a false sense of confidence - being able to paste a piece of R code that does one specific task on one specific dataset does not a data scientist make. With the Excel approach, it is at least clear what is and isn't being taught, and students can go in-depth on the principles. A final concern is that for certain complex, highly-tuned models, the code can get pretty hairy.
