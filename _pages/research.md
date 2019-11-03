@@ -34,6 +34,17 @@ See also [here](#case-studies) for a concise listing of case studies I have auth
   Published in Big Data, and available [here](https://www.liebertpub.com/doi/full/10.1089/big.2018.0092).
 </details>
 
+<details>
+  <summary>High Dimensional Model Selection</summary>
+  
+  This review paper summarizes many of the results in the field of *high dimensional model selection* in statistics. Broadly, the field concerns model fitting in situations in which there are many, many variables that might affect an outcome, and we seek the subset of variables best able to model this outcome.
+  
+  This was an essay submitted in partial fulfilment of the requirements for my Masters in Mathematics at the University of Cambridge under the supervision of [Richard Samworth](http://www.statslab.cam.ac.uk/~rjs57/).
+  
+  Available [here](/files/research/high_dimensional.pdf).
+
+</details>
+
 <br>
 
 # Supply Chain Management
