@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 markdown: CommonMarkGhPages
 ---
-
+kk
 Here is a subset of projects I've been working on, recent and not-so-recent. They range from more theoretical projects, to case studies highlighting ways businesses use these analytics in practice.
   - [Business Analytics and Pricing](#business-analytics-and-pricing)
   - [Supply Chain Management](#supply-chain-management)
