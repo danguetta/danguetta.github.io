@@ -19,6 +19,7 @@ See also [here](#case-studies) for a concise listing of case studies I have auth
 <details>
     <summary>Evisort: An AI-Powered Start-up Uses Text Mining to Become Google for Contracts</summary>
     
+    ### Evisort: An AI-Powered Start-up Uses Text Mining to Become Google for Contracts
     AI-driven text mining, a relatively new business analytics tool, allows users to unlock troves of information contained in documents and make them searchable by content and metadata. In this two-part case, I first introduce Evisort, a start-up seeking to create AI-enhanced software providing contract management and processing solutions for attorneys and business professionals, and discuss the challenges and opportunities inherent in such a startup. I then provide an introduction to the science of text analytics.
     
     Review copy (stamped 'do not copy') of [part 1](/files/cases/evisort1.pdf) and [part 2](/files/cases/evisort2.pdf). Published at Columbia Caseworks ([part 1](https://www8.gsb.columbia.edu/caseworks/node/694/Evisort%253A%2BAn%2BAI-Powered%2BStart-up%2BUses%2BText%2BMining%2Bto%2BBecome%2BGoogle%2Bfor%2BContracts) and [part 2](https://www8.gsb.columbia.edu/caseworks/node/694)), and available there with full teaching notes, data files, and solutions.
