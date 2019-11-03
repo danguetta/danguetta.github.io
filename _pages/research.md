@@ -23,7 +23,16 @@ See also [here](#case-studies) for a concise listing of case studies I have auth
     
     Review copy (stamped 'do not copy') of [part 1](/files/cases/evisort1.pdf) and [part 2](/files/cases/evisort2.pdf). Published at Columbia Caseworks ([part 1](https://www8.gsb.columbia.edu/caseworks/node/694/Evisort%253A%2BAn%2BAI-Powered%2BStart-up%2BUses%2BText%2BMining%2Bto%2BBecome%2BGoogle%2Bfor%2BContracts) and [part 2](https://www8.gsb.columbia.edu/caseworks/node/694)), and available there with full teaching notes, data files, and solutions.
 </details>
- 
+
+<details>
+    <summary>Data-Driven Investment Strategies for Peer-to-Peer Lending: A Case Study for Teaching Data Science</summary>
+    
+    *with Maxime Cohen, Kevin Jiao, and Foster Provost*
+    
+    We develop a number of data-driven investment strategies that demonstrate how machine learning and data analytics can be used to guide investments in peer-to-peer loans. We detail the process starting with the acquisition of (real) data from a peer-to-peer lending platform all the way to the development and evaluation of investment strategies based on a variety of approaches. We focus heavily on how to apply and evaluate the data science methods, and resulting strategies, in a real-world business setting. The material presented in this article can be used by instructors who teach data science courses, at the undergraduate or graduate levels. Importantly, we go beyond just evaluating predictive performance of models, to assess how well the strategies would actually perform, using real, publicly available data. Our treatment is comprehensive and ranges from qualitative to technical, but is also modular—which gives instructors the flexibility to focus on specific parts of the case, depending on the topics they want to cover. The learning concepts include the following: data cleaning and ingestion, classification/probability estimation modeling, regression modeling, analytical engineering, calibration curves, data leakage, evaluation of model performance, basic portfolio optimization, evaluation of investment strategies, and using Python for data science.
+    
+    Published in Big Data, and available [here](https://www.liebertpub.com/doi/full/10.1089/big.2018.0092).
+</details>
 
 # Supply Chain Management
 
