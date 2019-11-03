@@ -45,6 +45,15 @@ See also [here](#case-studies) for a concise listing of case studies I have auth
 
 </details>
 
+<details>
+  <summary>Package Sizing Decisions</summary>
+  
+  *with Oded Koenigsberg*
+  
+  What's the ideal size for a ketchup bottle (from Heinz's point of view)? If the bottle is too small, the company loses out on extra profit from consumers who would have been willing to buy more. If the bottle is too big, the company loses out on consumers who need much less, and therefore don't buy at all. This question were addressed in a 2010 paper by Koenigsberg, Kohli and Montoya. This piece of work reviews some of their work, but also examines their assumptions, and reports preliminary numerical attempts are improving some of them to make the model more realistic.
+  
+  This is work I carried out while at Columbia in the summer of 2009 - summary available [here](/files/research/package_size.pdf).
+
 <br>
 
 # Supply Chain Management
