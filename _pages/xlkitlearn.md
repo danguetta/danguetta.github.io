@@ -13,14 +13,11 @@ Here are the highlights
   - Every run outputs a piece of python code that carries out the same analysis. The code is dynamically-generated for every run to use the simplest sklearn function for the specific model being fit
   - Works natively on Windows _and_ Mac computers - no need for any parallels environment of any kind
 
-why not others
-
 You are welcome to use XLKitLearn for free for any purpose, but every run will be logged, together with your email address, on a server. If you want to avoid this log, either reach out to me or simply run it while disconnected from the internet. You will need to run it while connected to the internet at least once every 10 days to check for updates.
 
+# Installing the add-in
 
-
-
-Why design a brand new tool when there are many out there? The most important reason in my mind is that I wanted to
+# Two quick demos
 
 
 # Why design a brand new tool?
