@@ -19,5 +19,4 @@ You are welcome to use XLKitLearn for free for any purpose, but every run will b
 
 # Two quick demos
 
-
 # Why design a brand new tool?
