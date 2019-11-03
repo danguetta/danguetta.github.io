@@ -20,14 +20,13 @@ See also [here](#case-studies) for a concise listing of case studies I have auth
 # Supply Chain Management
 
 <details>
-    <summary>Two-echelon distribution systems with random demands and storage constraints</summary>
-  
-    ### Two-echelon distribution systems with random demands and storage constraints
-    *with Awi Federgruen and Garud Iyengar*
+  <summary>Two-echelon distribution systems with random demands and storage constraints</summary>
 
-    We consider a general two‐echelon distribution system consisting of a depot and multiple sales outlets, henceforth referred to as retailers, which face random demands for a given item. The replenishment process consists of two stages: the depot procures the item from an outside supplier, while the retailers' inventories are replenished by shipments from the depot. Both of the replenishment stages are associated with a given facility-specific leadtime. The depot as well as the retailers faces a limited inventory capacity. Inventories are reviewed and orders are placed on a periodic basis. When a retailer runs out of stock, unmet demand is backlogged.
+  ### Two-echelon distribution systems with random demands and storage constraints
+  *with Awi Federgruen and Garud Iyengar*
+   We consider a general two‐echelon distribution system consisting of a depot and multiple sales outlets, henceforth referred to as retailers, which face random demands for a given item. The replenishment process consists of two stages: the depot procures the item from an outside supplier, while the retailers' inventories are replenished by shipments from the depot. Both of the replenishment stages are associated with a given facility-specific leadtime. The depot as well as the retailers faces a limited inventory capacity. Inventories are reviewed and orders are placed on a periodic basis. When a retailer runs out of stock, unmet demand is backlogged.
       
-    [Published in Naval Research Logistics](https://onlinelibrary.wiley.com/doi/abs/10.1002/nav.21825). Draft version available [here](/files/research/single_product.pdf)
+  [Published in Naval Research Logistics](https://onlinelibrary.wiley.com/doi/abs/10.1002/nav.21825). Draft version available [here](/files/research/single_product.pdf)
 </details>
  
 ### Supply Chain Coordination and Contracts in the Sharing Economy - a Case Study at Cargo
