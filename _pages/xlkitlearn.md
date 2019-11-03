@@ -23,11 +23,7 @@ Before you install the add-in, download the [installation instructions](https://
 
 # Two quick demos
 
-Here are two short videos that demonstrate the basics of the predictive analytics and text analytics part of XLKitLearn. A more detailed user manual is forthcoming!
-
-[![](http://img.youtube.com/vi/gBSiMRuHMr0/0.jpg)](http://www.youtube.com/watch?v=gBSiMRuHMr0 "")
-
-[![](http://img.youtube.com/vi/erCp2K81y2o/0.jpg)](http://www.youtube.com/watch?v=erCp2K81y2o "")
+Here are two short videos that demonstrate the basics of the [predictive analytics](https://www.youtube.com/watch?v=gBSiMRuHMr0) and [text analytics](https://www.youtube.com/watch?v=erCp2K81y2o) capabilities of XLKitLearn. A more detailed user manual is forthcoming!
 
 # Why design a brand new tool?
 
