@@ -3,6 +3,7 @@ layout: archive
 title: "Cases and Research"
 permalink: /research/
 author_profile: true
+markdown: CommonMarkGhPages
 ---
 
 Here is a subset of projects I've been working on, recent and not-so-recent. They range from more theoretical projects, to case studies highlighting ways businesses use these analytics in practice.
