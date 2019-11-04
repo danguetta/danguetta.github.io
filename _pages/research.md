@@ -25,7 +25,7 @@ See also [here](#case-studies) for a concise listing of case studies I have auth
 <details>
   <summary>Evisort: An AI-Powered Start-up Uses Text Mining to Become Google for Contracts</summary>
     
-  AI-driven text mining, a relatively new business analytics tool, allows users to unlock troves of information contained in documents and make them searchable by content and metadata. In this two-part case, I first introduce Evisort, a start-up seeking to create AI-enhanced software providing contract management and processing solutions for attorneys and business professionals, and discuss the challenges and opportunities inherent in such a startup. I then provide an introduction to the science of text analytics.
+  > AI-driven text mining, a relatively new business analytics tool, allows users to unlock troves of information contained in documents and make them searchable by content and metadata. In this two-part case, I first introduce Evisort, a start-up seeking to create AI-enhanced software providing contract management and processing solutions for attorneys and business professionals, and discuss the challenges and opportunities inherent in such a startup. I then provide an introduction to the science of text analytics.
     
   Review copy (stamped 'do not copy') of [part 1](/files/cases/evisort1.pdf) and [part 2](/files/cases/evisort2.pdf). Published at Columbia Caseworks ([part 1](https://www8.gsb.columbia.edu/caseworks/node/694/Evisort%253A%2BAn%2BAI-Powered%2BStart-up%2BUses%2BText%2BMining%2Bto%2BBecome%2BGoogle%2Bfor%2BContracts) and [part 2](https://www8.gsb.columbia.edu/caseworks/node/694)), and available there with full teaching notes, data files, and solutions. Featured by [Business Wire](https://www.businesswire.com/news/home/20181129005078/en/Starting-Today-Columbia%E2%80%99s-Professor-Daniel-Guetta-Evisort).
 </details>
@@ -121,6 +121,14 @@ See also [here](#case-studies) for a concise listing of case studies I have auth
 # Miscellaneous
 
 <details>
+  <summary>Analytics of TCUs in Californian Hospitals using Bayesian Networks</summary>
+  
+  > Intensive care units are invariably the most expensive units in any given hospital, and are often overloaded. Certain hospitals have introduced transitional care units (TCUs), which are cheaper to run, to try and reduce the load on intensive care units. However, it is unclear whether the introduction of these TCUs has had any positive effects. In this project, we will analyse data using data mining techniques to try and better understand the effect of the introduction of TCUs. Specifically, we will examine the effect TCUs have had on appropriate measures of treatment cost and quality of service.
+  
+  This was a project I undertook as part of a service systems class with Prof Ward Whitt and with the help of Prof Carri Chan. Unfortunately, the data seemed to be of insufficient scale to get conclusive results. Final presentation [here](/files/research/tcu.pptx), minus any slides containing results, for confidentiality reasons.
+</details>
+
+<details>
   <summary>The Odds Algorithm</summary>
   
   The classical secretary problem concerns the following situation: an interviewer needs to hire a single secretary, and sets out to interview a fixed number of candidates. While interviewing a candidates, the interviewer ascertains how the candidate ranks compared to every previous candidate. After each candidate is seen, the interviewer can either accept the candidate, and end the interview process, or reject the candidate, without any chance of ever returning to that candidate. The classical secretary problem seeks the best strategy to adopt in this case. Clearly, choosing an early candidate is a bad idea - indeed, having seen very few candidates, it is difficult to know what is available. Similarly, waiting till the last candidate might also not be the best choice - the last candidate might be lousy!
@@ -173,7 +181,15 @@ See also [here](#case-studies) for a concise listing of case studies I have auth
   
   In theory, downloading [this xla file](/files/research/excel_tools.xla) and opening it should make these tools available in any workbook. Unfortunately, this was written for a previous version of Excel - it is unlikely to still work.
 </details>  
+
+<details>
+  <summary>A Turing Machine Development Environment</summary>
   
+  > Turing Machines are one of the simplest computing models equivalent to today's computers - that is to say, anything computers can do, Turing Machines can do and vice-versa. Turing Machines can therefore be used to find the limits of what computers can do and can't. However, Turing Machines are rather difficult and tedious to program, and very few packages exist to help this process. The aim of this project is to build a program to help the making of Turing Machines.
+  
+  This was a research project I carried out at the Technion during the summer of 2003 (I was 16 when I wrote this, so don't judge!). [Short presentation](/files/research/turing/pres.pdf), [project report](/files/research/turing/report.pdf), and executable files ([file 1](/files/research/turing/exec_1.exe) and [file 2](/files/research/turing/exec_2.exe); I'd be amazed if these still run on a modern OS!)
+</details>
+
 <br>
 
 # Case Studies
