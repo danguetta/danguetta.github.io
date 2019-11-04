@@ -115,15 +115,59 @@ See also [here](#case-studies) for a concise listing of case studies I have auth
 # Miscellaneous
 
 <details>
+  <summary>The Odds Algorithm</summary>
+  
+  The classical secretary problem concerns the following situation: an interviewer needs to hire a single secretary, and sets out to interview a fixed number of candidates. While interviewing a candidates, the interviewer ascertains how the candidate ranks compared to every previous candidate. After each candidate is seen, the interviewer can either accept the candidate, and end the interview process, or reject the candidate, without any chance of ever returning to that candidate. The classical secretary problem seeks the best strategy to adopt in this case. Clearly, choosing an early candidate is a bad idea - indeed, having seen very few candidates, it is difficult to know what is available. Similarly, waiting till the last candidate might also not be the best choice - the last candidate might be lousy!
+
+  The Odds Algorithm was developed as a very elegant way to solve the secretary problem and many of its more complicated variations. In this presentation, we state and prove the Odds Theorem and consider a number of its applications.
+  
+  This was a final project in Prof Omar Besbes' and Vineet Goyal's course "Dynamic Learning and Optimization: Theory and Applications", which I took in the Spring 2011 semester at Columbia. I prepared a short [presentation](/files/research/odds_pres.pptx) (which requires the [MathType fonts](http://www.dessci.com/en/dl/fonts/getfont.asp)) and [report](/files/research/odds_report.pdf).
+</details>
+
+<details>
+  <summary>Detecting Bubbles Using Option Prices</summary>
+  
+  In the context of financial markets, bubbles refer to asset prices that exceed the asset's fundamental, intrinsic value. Bubbles are often associated with a large increase in the asset price followed by a collapse when the bubble "bursts". A series of recent papers have developed a number of mathematical models for bubbles in financial markets, together with a number of analytical tests that could, in theory, be used to detect bubbles before they burst. These tests, however, only use information available in the stock prices themselves. In this project, we investigated a variation of these detection methods that rely on prices of options on the stock, rather than on the price of the stock itself.
+  
+  This was a summer project I undertook in the first year of my PhD with Prof Paul Glasserman. Power point presentation available [here](/files/research/bubbles.pptx).
+</details>
+
+</details>
+
+<details>
   <summary>The OLYMPUS experiement</summary>
   
   What's inside a proton? We should be able to answer that question using lattice QCD (quantum chromodynamics), and when computers catch up with the theory, we probably will. In the meantime, however, we're stuck with a more primitive method - shoot things at protons, see what happens and make deductions. The problem is that particle physicists have tried two ways to "shoot stuff at a proton", and the results have not been consistent. This could be because of second-order interactions polluting one of the methods. OLYMPUS is an experiment that should reveal whether this is the case. This poster summaries the background and aims of the experiment.
   
-  This was a final presentation for class 8.276 (Particle Physics) at MIT. PDF available [here](/files/research/olympus.pdf)
+  This was a final presentation for class 8.276 (Particle Physics) at MIT. PDF available [here](/files/research/olympus.pdf).
 </details>
 
+<details>
+  <summary>The Path Integral Approach to Quantum Mechanics</summary>
+  
+  Quantum mechanics and classical mechanics are both called "mechanics" - but they apparently have little in common. One deals with waves, operators and probabilities, whereas the other deals with particles, forces and deterministic variables. This paper is an introduction to the path integral formulation of quantum mechanics, which unifies quantum and classical mechanics under one common framework and reduces to the Lagrangian approach at very high energies (the equivalence principle).
+  
+  This was a final project for class 8.06 (Quantum Mechanics) at MIT. PDF available [here](/files/research/path_integral.pdf).
+</details>
 
+<details>
+  <summary>Enzyme-free constant-temperature DNA quantisation and amplification</summary>
+  
+  DNA is everywhere, and being able to accurately and reliably detect and amplify tiny amounts of the molecule is crucial. The most common DNA amplification method, PCR (Polymerase Chain Reaction), is ubiquitous, but requires the use of highly specialized and expensive enzymes and tediously specialized reaction conditions most commonly obtained using thermal-cycling machines. In this project, we attempted to extend a method developed by Zhang et. al. (2007) to create an "enzyme-free" version of PCA.
 
+  This was part of a SURF project at Caltech's [DNA lab](http://www.dna.caltech.edu/). Progress report (more informative) [here](/files/research/dna_progress.pdf) and final report [here](/files/research/dna_final.pdf).
+</details>
+
+<details>
+  <summary>Excel Tools</summary>
+  
+  This set of tools extends Excel's functionality
+    - Formula explorer allows easy auditing of large and complex formulas - clicking on any cell refernce brings up the relevant cell and brackets can be independent and highlight for clarity. To use, hit Ctrl+Shift+F in any cell with a formula. Hit F1 from the formula explorer for a list of features.
+    - Functions to perform redumentary linear algebra operations - finding eigenvalues, eigenvectors, Cholesky decomposition, and inverse matrices.
+  
+  In theory, downloading [this xla file](/files/research/excel_tools.xla) and opening it should make these tools available in any workbook. Unfortunately, this was written for a previous version of Excel - it is unlikely to still work.
+</details>  
+  
 <br>
 
 # Case Studies
