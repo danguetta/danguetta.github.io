@@ -13,14 +13,17 @@ These are organized in rough chronological order.
 
 # Columbia Business School - First Year of the Doctoral Program in Decisions, Risk and Operations
 
-This section contains two kinds of notes. "Condensed notes" were written with the specific aim of being concise and to-the-point. Thus, proofs - while complete - are very sparse and leave all algebraic manipulations to the reader. "Notes" are more verbose, and contains detailed explanation of every step involved.
-
-Stochastic processes - still working on these notes. Will upload them ASAP.
-Optimization
-Notes based on "Optimization 1", a course I took with Prof Donald Goldfarb in the fall of 2010. The notes also draw heavily on Bestimas and Tsitsiklis' "Introduction to Linear Optimization". These notes cover linear programming, including duality, the simplex algorithm and sensitivity analysis, with a particular focus on geometry. (The notes also include a very short condensed section on network-flow problems)
-Condensed notes , roughly following two courses I took - "Foundations of Optimization" (thought by Prof Ciamac Moallemi) and "Convex Optimization" (thought by Prof Garud Iyengar . These notes are also heavily based on Boyd and Vandenberghe's book "Convex Optimization" (available online) and Luenberger's "Optimization by Vector Space Methods". The chapter numbers in these notes refer to Boyd and Vandenberghe's text. Rough list of topics covered: convexity of sets and functions, formulation of convex programs (from linear programs to semi-definite programs), duality, applications, Hilbert and Banach spaces, minimum-norm problems in Banach spaces, the Hahn-Banach Theorem.
-The notes above contain much of the material in the second half of "Foundations of Optimization". The first half of the course, however, also contained a large amount of very technical material, including a description of duality and KKT optimality conditions in general, non-convex programs. This material was so technical that I found it more confusing than enlightening and omitted from the condensed notes above. I did, however, compile some notes on that material.
-
+  - Stochastic processes
+      * [Notes](/files/notes/cu/stochastic.pdf) from Prof Assaf Zeevi's "Foundations of Stochastic Modelling".
+      * [Notes](/files/notes/cu/martingales.pdf) from Prof David Yao's "Stochastic Processes II".
+      * A copy of the [cheat sheet](/files/notes/cu/cheat_stochastic.pdf) I used for the stochastic part of my qualifying exams.
+  - Optimization
+      * [Notes](/files/notes/cu/optimization_1.pdf) based on "Optimization 1", a course I took with Prof Donald Goldfarb in the fall of 2010. The notes also draw heavily on Bestimas and Tsitsiklis' "Introduction to Linear Optimization". These notes cover linear programming, including duality, the simplex algorithm and sensitivity analysis, with a particular focus on geometry. (The notes also include a very short condensed section on network-flow problems).
+      * [Condensed Notes](/files/notes/cu/convex_optimization.pdf) roughly following two courses I took - "Foundations of Optimization" (thought by Prof Ciamac Moallemi) and "Convex Optimization" (thought by Prof Garud Iyengar). These notes are also heavily based on Boyd and Vandenberghe's book "Convex Optimization" (available [online](http://www.stanford.edu/~boyd/cvxbook/)) and Luenberger's "Optimization by Vector Space Methods". The chapter numbers in these notes refer to Boyd and Vandenberghe's text. Rough list of topics covered: convexity of sets and functions, formulation of convex programs (from linear programs to semi-definite programs), duality, applications, Hilbert and Banach spaces, minimum-norm problems in Banach spaces, the Hahn-Banach Theorem.
+      * [Notes](/files/notes/cu/opt_foundations.pdf) covering more technical material in the "Foundations of Optimization" class above, including duality, KKT conditions, no-convex program and more.
+      * A copy of the [cheat sheet](/files/notes/cu/cheat_deterministic.pdf] I used for the deterministic part of my qualifying exams.
+  - Some [notes](/files/notes/cu/game_theory.pdf) on game theory based on "Microeconomic Thery" taken during a course by Prof Paolo Siconolfi.
+      
 # University of Cambridge - Part III Mathematics/Certificate of Advanced Study in Mathematics/Masters of Mathematics
 
 Actuarial statistics
