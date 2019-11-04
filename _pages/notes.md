@@ -26,28 +26,20 @@ These are organized in rough chronological order.
       
 # University of Cambridge - Part III Mathematics/Certificate of Advanced Study in Mathematics/Masters of Mathematics
 
-Actuarial statistics
-Course notes, based on lectures by Susan Pitts. Covering agregate claims, reinsurance, ruin probabilities, no-claim-discount systems, credibility theory and run-off triangles.
-Solutions to the 2006 paper.
-Biostatistics
-Notes on survival data analysis, based on lectures and handouts by Peter Treasure.
-Deriving the samples size required for a test of given power when comparing proportions.
-Mathematics of Operational Research
-Notes, based on lectures notes by Richard Weber, the book Introduction to Linear Optimization and the book Games, Theory and Applications, by L.C. Thomas. Covering optimization (including primal simplex, dual simplex and integer linear programming), algorithms on graphs, a very short section on complexity theory, game theory (zero-sum games, non-zero-sum games, cooperative games, bargaining, market games and evolutionary games) and regret minimisation.
-An example of using Gomory's Cutting Plane method to solve an integer linear program.
-An example of finding the solutions of a two-person non-zero-sum games, where there are more than two strategies available (this is probably not the best way to do this!)
-An awesome article on using optimization to design railway timetables. Very accessible to anyone mathematically-minded - if you ever wondered what OR is, read this.
-Monte Carlo Inference - notes, based on lectures by Robert Gramacy, covering random number generation, nonparametric inference (importance sampling, control variates, antithetic variables, the bootstrap, the jacknife, bootstrap tests), bayesian inference (Markov Chain Monte Carlo, including the Gibbs Sampler and the Metropolis Hastings Algorithm, reverse jump MCMC, sequential importance sampling) and classical inference (simulated annealing, expectation maximisation).
-Statistical Theory and Applied Statistics - notes, based on lectures by Richard Samworth and Susan Pitts, and practicals organised by Susan Pitts. Covering linear models (including ANOVA, geometric interpretation and formal treatment of the variance using Cochran's Theorem), likelihood theory, generalised linear models (logistic regression, poisson regression, contingency tables), high-dimensional models (Hodge's estimator, the Stein estimator, ridge regression, the LASSO, SCAD, LARS), multiple testing (the Bonferroni correction and the Benjamini-Hochberg procedure) and application of LMs and GLMs in R. Includes solutions to many example sheet problems. Note that the proofs of Slutsky's Theorem and of the asymptotic normality of MLEs are still not complete.
+  - **Actuarial Statistics**: course [notes](/files/notes/part3/actuarial_notes.pdf), based on lectures by [Susan Pitts](http://www.statslab.cam.ac.uk/Dept/People/pitts.html), covering aggregate claims, reinsurance, ruin probabilities, no-claim-discount systems, credibility theory and run-off triangles. [Solutions](/files/notes/part3/actuarial_2016sol.pdf) to the 2006 paper.
+  - **Biostatistics**: [notes](/files/notes/part3/biostats_survival.pdf) on survival data analysis, based on lectures and handouts by [Peter Treasure](http://www.statslab.cam.ac.uk/Dept/People/treasure.html). [Notes](/files/notes/part3/biostats_samplesize.pdf) on deriving the samples size required for a test of given power when comparing proportions.
+  - **Mathematics of Operational Research**: [notes](/files/notes/part3/or_notes.pdf), based on lectures notes by [Richard Weber](http://www.statslab.cam.ac.uk/~rrw1/), the book Introduction to Linear Optimization and the book Games, Theory and Applications, by L.C. Thomas. Covering optimization (including primal simplex, dual simplex and integer linear programming), algorithms on graphs, a very short section on complexity theory, game theory (zero-sum games, non-zero-sum games, cooperative games, bargaining, market games and evolutionary games) and regret minimization. An [example](/files/notes/part3/or_gomory.pdf) of using Gomory's Cutting Plane method to solve an integer linear program.
+  - **Monte Carlo Inference**: [notes](/files/notes/part3/monte_carlo_notes.pdf) based on lectures by Robert Gramacy, covering random number generation, nonparametric inference (importance sampling, control variates, antithetic variables, the bootstrap, the jacknife, bootstrap tests), bayesian inference (Markov Chain Monte Carlo, including the Gibbs Sampler and the Metropolis Hastings Algorithm, reverse jump MCMC, sequential importance sampling) and classical inference (simulated annealing, expectation maximisation).
+  - **Statistical Theory and Applied Statistics**: [notes](/files/notes/part3/stats_notes.pdf), based on lectures by [Richard Samworth](http://www.statslab.cam.ac.uk/~rjs57/) and [Susan Pitts](http://www.statslab.cam.ac.uk/Dept/People/pitts.html), and practicals organized by Susan Pitts. Covering linear models (including ANOVA, geometric interpretation and formal treatment of the variance using Cochran's Theorem), likelihood theory, generalized linear models (logistic regression, Poisson regression, contingency tables), high-dimensional models (Hodge's estimator, the Stein estimator, ridge regression, the LASSO, SCAD, LARS), multiple testing (the Bonferroni correction and the Benjamini-Hochberg procedure) and application of LMs and GLMs in R. Includes solutions to many example sheet problems. Note that the proofs of Slutsky's Theorem and of the asymptotic normality of MLEs are still not complete.
 
 # Work at MIT
 
-Course 8.05 (Quantum Mechanics II) - review notes for the final exam.
-Course 8.033 (Relativity) - Miscellaneous notes on random topics which I felt I needed to cram before the final.
-Course 8.251 (String Theory for Undergraduates) - various notes and summaries, which, to be honest, are unlikely to be as good as the course book itself, but are probably more concise. Some also includes questions which I was intending to ask but never had time to - if you have the answers, let me know :-). First set, second set, third set.
-Course 8.333 (Statistical Mechanics) - a somewhat incomplete and truncated set of notes I took while studying the course. Explains some topics in more painstaking details, and might be useful in that respect.
-Course 15.052 (Optimization Methods in Management Science) - exam review notes for exam 1, exam 2 and exam 3.
-
+  - **Quantum Mechanics II (8.05)**: review [notes](/files/notes/mit/quantum_notes.pdf) for the final exam.
+  - **Relativity (8.033)**: miscellaneous [notes](/files/notes/mit/relativity_notes.pdf) on various parts of the class.
+  - **String Theory for Undergraduates (8.251)**: miscellaneous partial notes ([1](/files/notes/mit/string_1.pdf), [2](/files/notes/mit/string_2.pdf), [3](/files/notes/mit/string_3.pdf)) taken during the class, unlikely to be anywhere near as good as the [course book](https://www.cambridge.org/us/academic/subjects/physics/theoretical-physics-and-mathematical-physics/first-course-string-theory-2nd-edition?format=HB&isbn=9780521880329) by Prof Barton Zweibach who taught it.
+  - **Statistical Mechanics (8.333)**: miscellaneous partial [notes](/files/notes/mit/stat_mech_notes.pdf), which might be useful in that they cover some topics in painful detail.
+  - **Optimization Methods in Management Science (15.052)**: exam review notes ([1](/files/notes/mit/opt_notes_1.pdf), [2](/files/notes/mit/opt_notes_2.pdf), [3](/files/notes/mit/opt_notes_3.pdf)).
+  
 # University of Cambridge - Part IB Natural Sciences
 
 Physics A - notes on quantum mechanics (full notes) and waves (only a very small part of the course).

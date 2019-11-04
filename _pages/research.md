@@ -191,5 +191,3 @@ See also my [teaching](/teaching) and [notes](/notes) for additional work.
 </details>
 
 <br>
-
-# Case Studies
