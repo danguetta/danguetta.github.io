@@ -53,6 +53,7 @@ See also [here](#case-studies) for a concise listing of case studies I have auth
   What's the ideal size for a ketchup bottle (from Heinz's point of view)? If the bottle is too small, the company loses out on extra profit from consumers who would have been willing to buy more. If the bottle is too big, the company loses out on consumers who need much less, and therefore don't buy at all. This question were addressed in a 2010 paper by Koenigsberg, Kohli and Montoya. This piece of work reviews some of their work, but also examines their assumptions, and reports preliminary numerical attempts are improving some of them to make the model more realistic.
   
   This is work I carried out while at Columbia in the summer of 2009 - summary available [here](/files/research/package_size.pdf).
+</details>
 
 <br>
 
@@ -112,6 +113,16 @@ See also [here](#case-studies) for a concise listing of case studies I have auth
 <br>
 
 # Miscellaneous
+
+<details>
+  <summary>The OLYMPUS experiement</summary>
+  
+  What's inside a proton? We should be able to answer that question using lattice QCD (quantum chromodynamics), and when computers catch up with the theory, we probably will. In the meantime, however, we're stuck with a more primitive method - shoot things at protons, see what happens and make deductions. The problem is that particle physicists have tried two ways to "shoot stuff at a proton", and the results have not been consistent. This could be because of second-order interactions polluting one of the methods. OLYMPUS is an experiment that should reveal whether this is the case. This poster summaries the background and aims of the experiment.
+  
+  This was a final presentation for class 8.276 (Particle Physics) at MIT. PDF available [here](/files/research/olympus.pdf)
+</details>
+
+
 
 <br>
 
