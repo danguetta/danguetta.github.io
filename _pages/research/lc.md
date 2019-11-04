@@ -7,14 +7,15 @@ author_profile: true
 
 This page contains supplemental teaching material for the LendingClub case, which I wrote with Maxime Cohen, Kevin Jiao, and Foster Provost to teach Data Science in the context of a real dataset.
 
-The case and teaching note were published in Big Data, and available [here](https://www.liebertpub.com/doi/full/10.1089/big.2018.0092). I have pasted the abstract of that publication below.
+The case and teaching note were published in Big Data, and available free of charge [here](https://www.liebertpub.com/doi/full/10.1089/big.2018.0092). I have pasted the abstract of that publication below.
 
 I addition, we are making the following files available to facilitate the teaching of the case.
   - Three Jupyter notebooks covering the analysis discussed in the case
       * [ingestion_cleaning.ipynb](/files/research/lc/ingestion_cleaning.ipynb) covering the ingestion and cleaning of the data
       * [modeling.ipynb](/files/research/lc/modeling.ipynb) covering the modeling steps
       * [modeling_leakage.ipynb](/files/research/lc/modeling_leakage.ipynb) demonstrating the risk of leakeage in the dataset, as discussed in the case itself
-  - The paper above contains both questions and solutions. Some instructors have asked us for a student handout containing only questions. Here it is available in [pdf](/fioes/research/lc/lc_student_handout.pdf) format and [raw tex](/files/research/lc/lc_student_handout_text.zip) format for eidting.
+  - The publication above contains both questions and solutions. Some instructors have asked us for a student handout containing only questions. Here it is, in [pdf](/files/research/lc/lc_student_handout.pdf) format and [raw tex](/files/research/lc/lc_student_handout_tex.zip) format for editing.
+  - The data used in the case can be downloaded directly from LendingClub [here](https://www.lendingclub.com/info/download-data.action).
 
 Here is the abstract of the original publication above:
 
