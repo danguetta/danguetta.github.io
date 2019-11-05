@@ -49,12 +49,15 @@ These are organized in rough chronological order.
 
 # University of Cambridge - Part IA Natural Sciences
 
-Physics - notes on mechanics, special relativity, waves, circuits and thermodynamics (which, I believe, is no longer part of the IA syllabus).
-Chemistry
-Spectroscopy and orbitals - Notes on orbitals, miscellaneous spectroscopy, IR spectroscopy (with useful summary) and NMR spectroscopy (with useful summary).
-Organic chemistry - Notes on acidity, basicity and kPa and nucleophilic substitution and mind maps on carbonyl chemistry, miscellaneous organic chemistry and organometallic chemistry.
-Inorganic chemistry - mind map on periodicity.
-Physical chemistry - notes on thermodynamics, and a mind map on kinetics.
+  - **Physics**: notes on [mechanics](/files/notes/part1a/physics_mechanics.pdf), [special relativity](/files/notes/part1a/physics_relativity.pdf), [waves](/files/notes/part1a/physics_waves.pdf), [circuits](/files/notes/part1a/physics_circuits.pdf), and [thermodynamics](/files/notes/part1a/physics_thermo) (which, I believe, is no longer part of the IA syllabus).
+  - **Chemistry**
+      * **Spectroscopy and orbitals** - notes on [orbitals](/files/notes/part1a/chem_spec_orbitals.pdf), [miscellaneous spectroscopy](/files/notes/part1a/chem_spec_misc.pdf), IR spectroscopy (with useful [summary](/files/notes/part1a/chem_spec_ir_summary.pdf)) and [NMR spectroscopy](/files/notes/part1a/chem_spec_nrm.pdf) (with useful summary).
+      * **Organic chemistry** - notes on [acidity, basicity and kPa](/files/notes/part1a/chem_orgo_acidity.pdf) and [nucleophilic substitution](/files/notes/part1a/chem_orgo_substitution.pdf) and mind maps on [carbonyl chemistry](/files/notes/part1a/chem_orgo_carbonyl.pdf), [miscellaneous organic chemistry](/files/notes/part1a/chem_orgo_misc.pdf) and organometallic chemistry.
+      * **Inorganic chemistry** - mind map on [periodicity](/files/notes/part1a/chem_inorg_periodicity.pdf).
+      * **Physics chemistry** - notes on [thermodynamics](/files/notes/part1a/chem_physical_thermo.pdf), and a mind map on [kinetics](/files/notes/part1a/chem_physical_kinetics.pdf).
+  - **Mathematics**
+  
+  
 Mathematics B - notes on calculus, continuity and differentiability, coordinate systems, differential equations, functions of several variables, limits, power series, probability, series, vectors and miscellaneous stuff.
 Biology of Cells
 Macromolecules - notes on macromolecules and mind map on membranes.
