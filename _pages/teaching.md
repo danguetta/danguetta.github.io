@@ -22,7 +22,7 @@ These classes are focused on preparing tomorrow's managers to navigate an increa
 
 I currently teach the following classes at Columbia
 * **Business Analytics** is part of the Columbia Business School core class, and introduces our students to the fundamentals of Business Analytics. The course is designed and maintained by the entire DRO division. Latest syllabus [here](/files/teaching/ba_syllabus.pdf).
-* **Business Analytics 2** is a follow-on to Business Analytics that I designed and taught for the first time in the Fall of 2018; I designed [XLKitLearn](/xlkitlearn) in parallel, and use it extensively in the class. Within 6 months, this class grew to become a "staple elective" - I teach 6-7 sections of the class per year, and demand far outstrips supply. Latest syllabus [here](/files/teaching/ba2_syllabus.pdf), and plenty of material available [here](/teaching/ba2).
+* **Business Analytics 2** is a follow-on to Business Analytics that I designed and taught for the first time in the Fall of 2018; I designed [XLKitLearn](/xlkitlearn) in parallel, and use it extensively in the class. Within 6 months, this class grew to become a "staple elective" - I teach 6-7 sections of the class per year, and demand far outstrips supply. Latest syllabus [here](/files/teaching/ba2_syllabus.pdf), and a more detailed outline [here](/teaching/ba2).
 * **Analytics in Action** is a project-based class I teach with [Brett Martin](https://www.linkedin.com/in/brettlucasmartin). We bring groups of roughly 3 MBAs and 2 engineers together, and pair them with companies with whom they work on data-driven projects under our supervision. I give short vignettes on Data Science at the start of every lecture, but most of the class comprises office hours working on specific projects. Here is a [matplotlib cheat-sheet](/files/teaching/mpl_cheat_sheet.pdf) I produced for this class.
 * **The Analytics Advantage** is a class I coordinate, but do not teach in. The class focuses on how analytics have generated value in a broad range of industries. Each class is taught by a different faculty member with specific subject matter expertise and focuses on one specific industry and on how it has been transformed through the use of analytics. Syllabus [here](/files/teaching/aa_syllabus.pdf).
 
@@ -38,7 +38,7 @@ These classes are focused on teaching more advanced analytics to students with a
 
 I currently teach the following classes at Columbia
 * **Business Analytics** is the engineering equivalent to the Business Analytics core class described above. Whereas the MBA class is a 1.5 credit, half-semester class, this class is a 3 credit full-semester class. The additional lectures are spent covering the basics of the R programming language, and covering more advanced topics. Syllabus [here](/files/teaching/eng_ba_syllabus.pdf).
-* **Demand Analytics** is a class that covers the fundamentals of pricing and consumer choice models. Syllabus [here](/files/teaching/da/syllabus.pdf), and some material available here.
+* **Demand Analytics** is a class that covers the fundamentals of demand analytics, including pricing and consumer choice models. Syllabus [here](/files/teaching/da/syllabus.pdf). I wrote a number of cases for this class, some of which are listed [here](/research), and some which currently only live on slides for now.
 * **Analytics in Action** see the [MBA and EMBA](#mba-and-emba-classes) section above.
 
 I TAed the following classes in the past

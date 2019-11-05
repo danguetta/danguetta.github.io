@@ -23,11 +23,27 @@ See also my [teaching](/teaching) and [notes](/notes) for additional work.
 </details>
 
 <details>
+  <summary>Image Recognition at the USPS</summary>
+  
+   Even in these days of emails and electronic communications, the United States Postal Service handles almost 150 *billion* pieces of mail a year. Doing this quickly and efficiently is a truly mythical task. In this case study, we focus on one small part of this problem - the automatic character recognition (OCR) that must go on every time a piece of mail is processed to automatically sort it into the correct bin. We first cover the history of these systems at the USPS, and then show how random forests can be used to construct a simple image recognition model that achieves 92% accuracy. We also discuss the encoding of image data for data science.
+   
+   *This case is still being polished. Please be in touch for an early copy.*
+</details>
+
+<details>
   <summary>Evisort: An AI-Powered Start-up Uses Text Mining to Become Google for Contracts</summary>
     
   > AI-driven text mining, a relatively new business analytics tool, allows users to unlock troves of information contained in documents and make them searchable by content and metadata. In this two-part case, I first introduce Evisort, a start-up seeking to create AI-enhanced software providing contract management and processing solutions for attorneys and business professionals, and discuss the challenges and opportunities inherent in such a startup. I then provide an introduction to the science of text analytics.
     
   Review copy (stamped 'do not copy') of [part 1](/files/cases/evisort1.pdf) and [part 2](/files/cases/evisort2.pdf). Published at Columbia Caseworks ([part 1](https://www8.gsb.columbia.edu/caseworks/node/694/Evisort%253A%2BAn%2BAI-Powered%2BStart-up%2BUses%2BText%2BMining%2Bto%2BBecome%2BGoogle%2Bfor%2BContracts) and [part 2](https://www8.gsb.columbia.edu/caseworks/node/694)), and available there with full teaching notes, data files, and solutions. Featured by [Business Wire](https://www.businesswire.com/news/home/20181129005078/en/Starting-Today-Columbia%E2%80%99s-Professor-Daniel-Guetta-Evisort).
+</details>
+
+<detail>
+  <summary>Markdown Management; An Introduction to Dynamic Pricing</summary>
+  
+  In this case/game combination, I introduce the concept of markdown management in a situation with complex demand patterns, that depends on the price of an item, its location, and time. As a result, the optimal markdown strategy can only be calculated using a dynamic program. I first show how to solve a simplified version of the dyanmic program leading to a heuristic, and then solve the full DP in Excel leading to an optimal solution. The case comes with an online game which allows students to test out their strategies, and automatically logs the results of these strategies in a Google doc that can be used to analyzed these results in class.
+  
+  *This case is still being polished. Please be in touch for an early copy.*
 </details>
 
 <details>
@@ -39,6 +55,22 @@ See also my [teaching](/teaching) and [notes](/notes) for additional work.
     
   Published in Big Data, and available [here](https://www.liebertpub.com/doi/full/10.1089/big.2018.0092). Supporting notebooks and a separate student note available [here](/research/lc).
 </details>
+
+<details>
+  <summary>Regression Analytics at the New York City Department of Education</summary>
+    
+  With over 1,700 schools serving 1.1 million students and an annual budget of almost $25 billion, The New York City Department of Education is the largest education system in the world. It is also one of the most diverse. In this case, we first use Python to parse and prepare data in the public domain, and we then use regression analysis to explore various factors that affect performance at these schools.
+  
+  *This case is still being polished. Please be in touch for an early copy.*
+</details>
+
+<details>
+  <summary>Data Visualization in Tableau - The Case of Citibike</summary>
+  
+  Citibike is a bikesharing system in New York City. Bike stations are set up throughout the city, and users can pick up and drop off bikes from these stations. The system makes their data [available](https://www.citibikenyc.com/system-data), and in this case, we use these data to learn the art of data visualization in Tableau, and discuss how data can be used to make operational decisions.  
+  
+  *This case is still being polished. Please be in touch for an early copy.*
+<details>
 
 <details>
   <summary>High Dimensional Model Selection</summary>
