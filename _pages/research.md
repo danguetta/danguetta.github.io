@@ -38,7 +38,7 @@ See also my [teaching](/teaching) and [notes](/notes) for additional work.
   Review copy (stamped 'do not copy') of [part 1](/files/cases/evisort1.pdf) and [part 2](/files/cases/evisort2.pdf). Published at Columbia Caseworks ([part 1](https://www8.gsb.columbia.edu/caseworks/node/694/Evisort%253A%2BAn%2BAI-Powered%2BStart-up%2BUses%2BText%2BMining%2Bto%2BBecome%2BGoogle%2Bfor%2BContracts) and [part 2](https://www8.gsb.columbia.edu/caseworks/node/694)), and available there with full teaching notes, data files, and solutions. Featured by [Business Wire](https://www.businesswire.com/news/home/20181129005078/en/Starting-Today-Columbia%E2%80%99s-Professor-Daniel-Guetta-Evisort).
 </details>
 
-<detail>
+<details>
   <summary>Markdown Management; An Introduction to Dynamic Pricing</summary>
   
   In this case/game combination, I introduce the concept of markdown management in a situation with complex demand patterns, that depends on the price of an item, its location, and time. As a result, the optimal markdown strategy can only be calculated using a dynamic program. I first show how to solve a simplified version of the dyanmic program leading to a heuristic, and then solve the full DP in Excel leading to an optimal solution. The case comes with an online game which allows students to test out their strategies, and automatically logs the results of these strategies in a Google doc that can be used to analyzed these results in class.
@@ -70,7 +70,7 @@ See also my [teaching](/teaching) and [notes](/notes) for additional work.
   Citibike is a bikesharing system in New York City. Bike stations are set up throughout the city, and users can pick up and drop off bikes from these stations. The system makes their data [available](https://www.citibikenyc.com/system-data), and in this case, we use these data to learn the art of data visualization in Tableau, and discuss how data can be used to make operational decisions.  
   
   *This case is still being polished. Please be in touch for an early copy.*
-<details>
+</details>
 
 <details>
   <summary>High Dimensional Model Selection</summary>
