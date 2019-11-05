@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Here is a subset of projects I've been working on, recent and not-so-recent. They range from more theoretical projects, to case studies highlighting ways businesses use these analytics in practice.
-  - [Business Analytics and Pricing](#business-analytics-and-pricing)
+  - [Business Analytics](#business-analytics-and-pricing)
   - [Supply Chain Management](#supply-chain-management)
   - [Miscellaneous](#miscellaneous)
 
@@ -14,7 +14,7 @@ Projects are ordered roughly chronologically within each section. Arrows denote 
   
 See also my [teaching](/teaching) and [notes](/notes) for additional work.
 
-# Business Analytics and Pricing
+# Business Analytics
 
 <details>
   <summary>XLKitLearn - A tool for data science in Excel</summary>
