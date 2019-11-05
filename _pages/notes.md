@@ -42,10 +42,10 @@ These are organized in rough chronological order.
   
 # University of Cambridge - Part IB Natural Sciences
 
-Physics A - notes on quantum mechanics (full notes) and waves (only a very small part of the course).
-Physics B - notes on thermodynamics (full notes) and dynamics (only a part of the course, but should hopefully help clarify some tricky points).
-Mathematics - notes on complex analysis (incomplete), fourier transforms, Green's functions, linear algebra, ordinary differential equations, Poisson's equation, Sturm-Liouville theory, variational methods and vector calculus.
-I also found that the suggested reading for most IB courses was pretty abysmal, so I put together a list of various readings around the IB material which I found very useful and interesting.
+  - **Physics A**: [notes](/files/notes/part1b/quantum_notes.pdf) on quantum mechanics and [partial notes](/files/notes/part1b/quantum_waves_notes.pdf) on waves.
+  - **Physics B**: [notes](/files/notes/part1b/thermo_notes.pdf) on thermodynamics and [partial notes](/files/notes/part1b/dynamics_notes.pdf) on dynamics (which cover some trickier points).
+  - **Mathematics**: notes on [complex analysis](/files/notes/part1b/math_complex_analysis_notes.pdf), [fourier transforms](/files/notes/part1b/math_fourier_notes.pdf), [Green's functions](/files/notes/part1b/math_greens_notes.pdf), [linear algebra](/files/notes/part1b/math_linear_algebra_notes.pdf), [ordinary differential equations](/files/notes/part1b/math_ode_notes.pdf), [Poisson's equation](/files/notes/part1b/math_poisson_notes.pdf), [Sturm-Liouville theory](/files/notes/part1b/math_sturm_liouville_notes.pdf), [variational methods](/files/notes/part1b/math_variational_notes.pdf) and [vector calculus](/files/notes/part1b/math_vector_calculus_notes.pdf).
+  - Additional [suggested readings](/files/notes/part1b/readings.pdf) around IB courses.
 
 # University of Cambridge - Part IA Natural Sciences
 
