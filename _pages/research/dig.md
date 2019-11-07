@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Dig Case"
-permalink: /research/dig
+permalink: /dig
 author_profile: true
 ---
 
