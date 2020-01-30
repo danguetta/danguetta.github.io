@@ -17,6 +17,14 @@ See also my [teaching](/teaching) and [notes](/notes) for additional work.
 # Business Analytics
 
 <details>
+  <summary>From Intuition to Data-Driven Analytics: The Case of Dig</summary>
+  
+  Dig, a restaurant chain with a menu focused on seasonal produce, intentionally sourced, and offered at an accessible price point, was poised to expand. While the organization had collected and used data from its inception, management realized expansion would require a more systematic approach to driving value using data-driven insights at every stage of this value chain. This case chronicles Dig's journey from intuition to data-driven analytics, from the creation of a solid data foundation to the development of dynamic decision-support tools touching many parts of the company.
+  
+  [Review copy](/files/cases/dig.pdf) (stamped 'do not copy'). Published at Columbia Caseworks.
+</details>
+
+<details>
   <summary>XLKitLearn - A tool for data science in Excel</summary>
   
   See the [XLKitLearn page](/xlkitlearn).
