@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Exams"
-permalink: /exam
+permalink: /exams
 author_profile: true
 ---
 
