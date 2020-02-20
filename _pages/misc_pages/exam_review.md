@@ -18,8 +18,13 @@ Now, to specifics
      - Every question is graded by a single TA, to ensure points are deducted equally throughout. 
      - Furthermore, I ask every TA to first look through 10 copies before starting to grade, to develop a rigid grading scheme.
      - I randomly check a sample of exams at the end of grading, and re-grade them from start to finish myself to ensure the TA's choices are reasonable.
-   sdfsdf
-   
-   dfsdf
-   
-sdfsdf
+     - I do a perturbation analysis on every grade to see what the effect of your getting 3-5 extra points on your exam would have been. If this would make a difference to your final grade, I will ask the TAs to look at your exam in more detail to ensure it was graded fairly and consistently.
+  - If you nevertheless feel like you did much worse than you expected and that there might have been a major error in your grade, you may reach us to us and ask for a re-grade. The procedure is as follows
+     - You request a re-grade by emailing the class email address. When you do this, please mention you read this page in full before requesting a re-grade.
+     - The TAs to regrade your *entire* exam, from start to finish. This could result in your grade going up *or* going down.
+     - The TAs will reach out and let you know what the result of the re-grade was.
+     - If you still feel your grade does not reflect your performance, the TAs will hold office hours during which you can go through your exam with the TAs. To ensure people who go to the trouble of getting a meeting don't unfairly get extra points, I will *not* allow the TAs to raise grades as a result of these meetings. Instead, if you convince them you deserve more points as a result of this meeting, they will refer the entire final to me. I will then re-grade your entire final again in light of this information, as a result of which your grade may go up, or down.
+
+The primary complaint I get as a result of these policies is "but I don't want extra points, I just want to see where I went wrong." In answer to this question, remember: much as it pains me to say this, my priority in the final is *not* to ensure you understand where you went wrong, but instead to make sure you are assessed fairly. This is a necessarily evil of the way the academic world works, and the fact I have to grade classes on a reasonable curve. From past experience, allowing people to review their finals willy-nilly results in everyone who makes an appointment getting a few extra points back, which is a textbook example of an unfair advantage for some people (perhaps those with the time to make that appointment). Thus, after much soul-searching, I have converged to the scheme described on this page for optimal fairness.
+
+I, of course, remain available to answer any questions you might have, on this or anything else.
