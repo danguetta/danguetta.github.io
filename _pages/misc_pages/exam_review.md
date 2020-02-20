@@ -18,4 +18,8 @@ Now, to specifics
      - Every question is graded by a single TA, to ensure points are deducted equally throughout. 
      - Furthermore, I ask every TA to first look through 10 copies before starting to grade, to develop a rigid grading scheme.
      - I randomly check a sample of exams at the end of grading, and re-grade them from start to finish myself to ensure the TA's choices are reasonable.
-     
+   sdfsdf
+   
+   dfsdf
+   
+sdfsdf
