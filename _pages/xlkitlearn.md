@@ -19,7 +19,7 @@ You are welcome to use XLKitLearn for free for any purpose, but every run will b
 
 # Installing the add-in
 
-Before you install the add-in, download the [installation instructions](https://drive.google.com/file/d/1RxqeZLt66ncvISj7BMHX9b-p6nVeNaaH/view?usp=sharing) and the add-in [Excel file](https://drive.google.com/open?id=1SDXx_8OgWl0UZR16EGC64UPVogB_Mvg9). If you are installing the add-in on a PC, you will also need [this zip file](https://drive.google.com/open?id=18dW_KOKlQZm5vdkBk-WBWVc16S7DnKls).
+Before you install the add-in, download the [installation instructions](https://drive.google.com/open?id=1L9FobJ3aj1c0WdNV6M5riTpN-ARNSEdX) and the add-in [Excel file](https://drive.google.com/open?id=1VzZ7gInvPI2izMU0AZrQObKS2cjJkZpL). If you are installing the add-in on a PC, you will also need [this zip file](https://drive.google.com/open?id=1DWNYGNN_k10vVWlFOYcVKutWu8O1PaPf).
 
 # Two quick demos
 
