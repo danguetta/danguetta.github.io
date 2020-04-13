@@ -14,6 +14,6 @@ This page contains
   - The version of the [Global Superstore data](/files/research/globalsuperstore/GlobalSuperstore.xls) used in the case (note that Tableau periodically updates the version of this dataset it distributes with the software, but the dataset provided here will match the storyline and tutorials below exactly).
   - Three tutorials ([tutorial A](/files/research/globalsuperstore/TableauTutorialA.pdf), [tutorial B](/files/research/globalsuperstore/TableauTutorialB.pdf), and [tutorial C](/files/research/globalsuperstore/TableauTutorialC.pdf)) introducing various tableau features with increasing levels of complexity in the context of the storyline above.
   - An [assignment](/files/research/globalsuperstore/TableauAssignment.pdf) that can be given to students in conjunction with the case.
-  - Full [solutions](http://guetta.org/globalsuperstore/solutions/TableauSolutions.pdf] to the assignment (please email us together with proof of your instructional appointment for a password to this file)
+  - Full [solutions](http://guetta.org/globalsuperstore/solutions/TableauSolutions.pdf) to the assignment (please email us together with proof of your instructional appointment for a password to this file)
   
 We hope you find this case useful.
