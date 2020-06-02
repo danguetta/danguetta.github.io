@@ -10,6 +10,7 @@ Thank you for your interest in providing a project for our Analytics in Action c
 First, some general information you might want to look through:
   - Our [request for proposals](https://docs.google.com/document/d/1kXc6ro4NA7Ky0wTSOvc7T-8hMWTvLfHM61Tabk1Inq8/edit) for projects
   - Some [blog posts](https://medium.com/analytics-in-action-columbia-business-school/about) by students summarizing past projects
+  - An episode of the [Columbia Bizcast](https://www8.gsb.columbia.edu/articles/columbia-business/columbia-bizcast-analytics-action) about the class
   
 In general, the main features we look for in projects for this class are
   - An interesting business problem that your company is facing. The problem should be well-defined-enough that students can start on it relatively quickly, but some amount of open-endedness doesn't hurt.
