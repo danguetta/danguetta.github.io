@@ -23,30 +23,53 @@ The code is available for your perusal and copyrighted (for now, until I figure 
 
 # Installing the add-in
 
-Jump to installation instructions for [PC](#installation-instructions-pc) or [Mac](#installation-instructions-mac).
+Jump to installation instructions for [PC](#installation-instructions---pc) or [Mac](#installation-instructions---mac).
 
 XLKitLearn will likely require you to have administrative rights, both for installation and use. I have also heard anecdotal evidence that antivirus/antimalware software can prevent the addin from running. If you find that Excel shuts down every time you try to run it, feel free to contact [xlkitlearn@guetta.com](mailto:xlkitlearn@guetta.com) to see if it's an issue we've encoutered before.
 
 ## Installation instructions - PC
 
   1. Download XLKitLearn.exe and install it.
-  2. Download XLKitLearn.xlsm. This file contains the add-in. Every time
+  2. Download XLKitLearn.xlsm. This file contains the add-in itself. Every time you want to use the add-in, create a copy of this file, and bring your data into it.
   3. Open the file XLKitLearn.xlsm. Upon opening it, the file will likely be in protected mode. Unprotect it by clicking "Enable Editing":
         ![Click on Enable Editing](/files/images/xlkitlearn/unprotect.jpg)
      You will then be asked to enable Macros. Make sure you do:
         ![Click on Enable Content](/files/images/xlkitlearn/enable_macros.jpg)
-  4. Once the file opens, enter your email address in the lower part of the screen. Then, click on the _first_ run button near the top of the add-in.
+  4. Once the file opens, enter your email address in the lower part of the screen. Then, click on the _first_ run button near the top of the add-in:
+        ![Main addin](/files/images/xlkitlearn/test_addin.jpg)
+     The button should turn grey and the sheet should display the addin's progress. Let it run until a new sheet appears in your Excel. If you haven't used the add-in for a while, or are using it for the first time, it is normal for Python to take a little while to load, but the entire process should take no more than 2 minutes at most.
   
-     The button should turn grey, and a black terminal window should appear. Let it run until a new sheet appears in your Excel. If you haven't used the add-in for a while, or are using it for the first time, it is normal for Python to take a little while to load, but the entire process should take no more than 2 minutes at most.
-  
-  5. If the add-in runs successfully, the following screen should show up, and your installation is complete. (Note that the contents of cell D13 have been obscured. If you are installing this add-in as part of a class, your instructor might ask you to report the value in that cell to verify you've installed the add-in correctly).
+  5. If the add-in runs successfully, the following screen should show up (note that the contents of cell D13 have been obscured. If you are installing this add-in as part of a class, your instructor might ask you to report the value in that cell to verify you've installed the add-in correctly):
         ![Click on Enable Content](/files/images/xlkitlearn/addin_run.jpg)
+  
+  6. Finally, go back to the "Add-in" sheet, and click on the other button ("Edit Settings"). Make sure you click on the first, upper “Edit Settings” button – not the lower one. The following window should pop-up:
+        ![Addin window](/files/images/xlkitlearn/addin_window.jpg)
 
-## Installation instuctions - Mac
+If you reached this point, congratulations - you're done!
 
-The addin works natively on both Windows and Mac computers, but the installation instructions differ based on the platform. Follow the 
+## Installation instructions - Mac
 
-Before you install the add-in, download the [installation instructions](https://drive.google.com/open?id=1pJIO8QoFhX_k3jl2GgGLC9b2cpz1n9OQ) and the add-in [Excel file](https://drive.google.com/open?id=1BnfW9X72nygG0km-cH2_EEYgRHu-uPhQ). If you are installing the add-in on a PC, you will also need [this zip file](https://drive.google.com/open?id=1YtRCD4V1BwnfoUnwlt7RIdAUHzdsmzUP).
+  1. Bring up Spotlight Search by pressing ``Command + Space``, and type “terminal” in the search bar. Click on the terminal icon
+        ![Terminal](/files/images/xlkitlearn/terminal.jpg)
+        
+  2. Copy and paste the following words _exactly_ into the terminal
+        ```curl -sSL https://xlwings.s3.amazonaws.com/xlkitlearn/installer.sh | sudo bash```
+     The command should take a few minutes to run, and end with the text ``Successfully installed XLKitLearn!``.
+     
+  3. Download XLKitLearn.xlsm. This file contains the add-in itself. Every time you want to use the add-in, create a copy of this file, and bring your data into it.
+  3. Open the file XLKitLearn.xlsm. Upon opening it, you should be asked to enable Macros:
+        ![Click on Enable Editing](/files/images/xlkitlearn/mac_macros.jpg)
+  4. Once the file opens, enter your email address in the lower part of the screen. Then, click on the _first_ run button near the top of the add-in:
+        ![Main addin](/files/images/xlkitlearn/test_addin.jpg)
+     The button should turn grey and the sheet should display the addin's progress. Let it run until a new sheet appears in your Excel. If you haven't used the add-in for a while, or are using it for the first time, it is normal for Python to take a little while to load, but the entire process should take no more than 2 minutes at most.
+  
+  5. If the add-in runs successfully, the following screen should show up (note that the contents of cell D13 have been obscured. If you are installing this add-in as part of a class, your instructor might ask you to report the value in that cell to verify you've installed the add-in correctly):
+        ![Click on Enable Content](/files/images/xlkitlearn/addin_run.jpg)
+  
+  6. Finally, go back to the "Add-in" sheet, and click on the other button ("Edit Settings"). Make sure you click on the first, upper “Edit Settings” button – not the lower one. The following window should pop-up:
+        ![Addin window](/files/images/xlkitlearn/addin_window.jpg)
+
+If you reached this point, congratulations - you're done!
 
 # Two quick demos
 
