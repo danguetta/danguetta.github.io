@@ -53,7 +53,9 @@ If you reached this point, congratulations - you're done!
         ![Terminal](/files/images/xlkitlearn/terminal.jpg)
         
   2. Copy and paste the following words _exactly_ into the terminal
+  
         ```curl -sSL https://xlwings.s3.amazonaws.com/xlkitlearn/installer.sh | sudo bash```
+        
      The command should take a few minutes to run, and end with the text ``Successfully installed XLKitLearn!``.
      
   3. Download XLKitLearn.xlsm. This file contains the add-in itself. Every time you want to use the add-in, create a copy of this file, and bring your data into it.
