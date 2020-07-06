@@ -31,11 +31,16 @@ XLKitLearn will likely require you to have administrative rights, both for insta
 
   1. Download XLKitLearn.exe and install it.
   2. Download XLKitLearn.xlsm. This file contains the add-in. Every time
-  3. Open the file XLKitLearn.xlsm. Upon opening it, the file will likely be in protected mode. Unprotect it by clicking "Enable Editing".
-        ![Unprotect](/files/images/xlkitlearn/unprotect.jpg)
-     You will then be asked to enable Macros. Make sure you do
+  3. Open the file XLKitLearn.xlsm. Upon opening it, the file will likely be in protected mode. Unprotect it by clicking "Enable Editing":
+        ![Click on Enable Editing](/files/images/xlkitlearn/unprotect.jpg)
+     You will then be asked to enable Macros. Make sure you do:
+        ![Click on Enable Content](/files/images/xlkitlearn/enable_macros.jpg)
+  4. Once the file opens, enter your email address in the lower part of the screen. Then, click on the _first_ run button near the top of the add-in.
   
-  4. sdf
+     The button should turn grey, and a black terminal window should appear. Let it run until a new sheet appears in your Excel. If you haven't used the add-in for a while, or are using it for the first time, it is normal for Python to take a little while to load, but the entire process should take no more than 2 minutes at most.
+  
+  5. If the add-in runs successfully, the following screen should show up, and your installation is complete. (Note that the contents of cell D13 have been obscured. If you are installing this add-in as part of a class, your instructor might ask you to report the value in that cell to verify you've installed the add-in correctly).
+        ![Click on Enable Content](/files/images/xlkitlearn/addin_run.jpg)
 
 ## Installation instuctions - Mac
 
