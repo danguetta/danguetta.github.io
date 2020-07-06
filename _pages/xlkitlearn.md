@@ -32,9 +32,10 @@ XLKitLearn will likely require you to have administrative rights, both for insta
   1. Download XLKitLearn.exe and install it.
   2. Download XLKitLearn.xlsm. This file contains the add-in. Every time
   3. Open the file XLKitLearn.xlsm. Upon opening it, the file will likely be in protected mode. Unprotect it by clicking "Enable Editing".
+        ![Unprotect](/files/images/xlkitlearn/unprotect.jpg)
+     You will then be asked to enable Macros. Make sure you do
   
-  You will then be asked to enable Macros. Make sure you do
-  4. 
+  4. sdf
 
 ## Installation instuctions - Mac
 
