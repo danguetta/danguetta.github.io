@@ -36,7 +36,9 @@ XLKitLearn will likely require you to have administrative rights, both for insta
      You will then be asked to enable Macros. Make sure you do:
         ![Click on Enable Content](/files/images/xlkitlearn/enable_macros.jpg)
   4. Once the file opens, enter your email address in the lower part of the screen. Then, click on the _first_ run button near the top of the add-in:
-        ![Main addin](/files/images/xlkitlearn/test_addin.jpg =100x)
+        <img src="/files/images/xlkitlearn/test_addin.jpg" width="48">
+        sdf
+        ![Main addin](/files/images/xlkitlearn/test_addin.jpg)
      The button should turn grey and the sheet should display the addin's progress. Let it run until a new sheet appears in your Excel. If you haven't used the add-in for a while, or are using it for the first time, it is normal for Python to take a little while to load, but the entire process should take no more than 2 minutes at most.
   
   5. If the add-in runs successfully, the following screen should show up (note that the contents of cell D13 have been obscured. If you are installing this add-in as part of a class, your instructor might ask you to report the value in that cell to verify you've installed the add-in correctly):
