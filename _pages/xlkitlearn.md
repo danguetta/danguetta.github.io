@@ -37,22 +37,25 @@ XLKitLearn will likely require you to have administrative rights, both for insta
         ![Click on Enable Content](/files/images/xlkitlearn/enable_macros.jpg)
   4. Once the file opens, enter your email address in the lower part of the screen. Then, click on the _first_ run button near the top of the add-in:
   
-        <img src="/files/images/xlkitlearn/test_addin.jpg" width="50%">
+        <img src="/files/images/xlkitlearn/test_addin.jpg" width="65%">
         
      The button should turn grey and the sheet should display the addin's progress. Let it run until a new sheet appears in your Excel. If you haven't used the add-in for a while, or are using it for the first time, it is normal for Python to take a little while to load, but the entire process should take no more than 2 minutes at most.
   
   5. If the add-in runs successfully, the following screen should show up (note that the contents of cell D13 have been obscured. If you are installing this add-in as part of a class, your instructor might ask you to report the value in that cell to verify you've installed the add-in correctly):
-        ![Click on Enable Content](/files/images/xlkitlearn/addin_run.jpg)
+  
+        <img src="/files/images/xlkitlearn/addin_run.jpg" width="65%">
   
   6. Finally, go back to the "Add-in" sheet, and click on the other button ("Edit Settings"). Make sure you click on the first, upper “Edit Settings” button – not the lower one. The following window should pop-up:
-        ![Addin window](/files/images/xlkitlearn/addin_window.jpg)
-
+  
+        <img src="/files/images/xlkitlearn/addin_window.jpg" width="45%">  
+        
 If you reached this point, congratulations - you're done!
 
 ## Installation instructions - Mac
 
   1. Bring up Spotlight Search by pressing ``Command + Space``, and type “terminal” in the search bar. Click on the terminal icon
-        ![Terminal](/files/images/xlkitlearn/terminal.jpg)
+  
+        <img src="/files/images/xlkitlearn/terminal.jpg" width="45%">
         
   2. Copy and paste the following words _exactly_ into the terminal
   
@@ -62,16 +65,22 @@ If you reached this point, congratulations - you're done!
      
   3. Download XLKitLearn.xlsm. This file contains the add-in itself. Every time you want to use the add-in, create a copy of this file, and bring your data into it.
   3. Open the file XLKitLearn.xlsm. Upon opening it, you should be asked to enable Macros:
-        ![Click on Enable Editing](/files/images/xlkitlearn/mac_macros.jpg)
+        
+        <img src="/files/images/xlkitlearn/mac_macros.jpg" width="45%">
+  
   4. Once the file opens, enter your email address in the lower part of the screen. Then, click on the _first_ run button near the top of the add-in:
-        ![Main addin](/files/images/xlkitlearn/test_addin.jpg)
+  
+        <img src="/files/images/xlkitlearn/test_addin.jpg" width="65%">
+        
      The button should turn grey and the sheet should display the addin's progress. Let it run until a new sheet appears in your Excel. If you haven't used the add-in for a while, or are using it for the first time, it is normal for Python to take a little while to load, but the entire process should take no more than 2 minutes at most.
    
   5. If the add-in runs successfully, the following screen should show up (note that the contents of cell D13 have been obscured. If you are installing this add-in as part of a class, your instructor might ask you to report the value in that cell to verify you've installed the add-in correctly):
-        ![Click on Enable Content](/files/images/xlkitlearn/addin_run.jpg)
+  
+        <img src="/files/images/xlkitlearn/addin_run.jpg" width="65%">
   
   6. Finally, go back to the "Add-in" sheet, and click on the other button ("Edit Settings"). Make sure you click on the first, upper “Edit Settings” button – not the lower one. The following window should pop-up:
-        ![Addin window](/files/images/xlkitlearn/addin_window.jpg)
+  
+        <img src="/files/images/xlkitlearn/addin_window.jpg" width="45%">  
 
 If you reached this point, congratulations - you're done!
 
