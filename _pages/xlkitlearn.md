@@ -29,11 +29,11 @@ Jump to installation instructions for [PC](#installation-instructions---pc) or [
 
 ## Installation instructions - PC
 
-  1. Download the [XLKitLearn installer](https://drive.google.com/file/d/19q-oVIC1OXSDQ0qsBG3kGtrheegXOz3z/view?usp=sharing) and install it.
+  1. Download the [XLKitLearn installer](https://drive.google.com/uc?export=download&id=1nkGXOI49btPFC12TdTlksjU6-Q70ulS5) and install it.
   
-     Note: if you have an older computer, you will need to check whether you have a 32 bit or 64 bit version of Windows. To do this, click [here](ms-settings:about?activationSource=SMC-Article-15056) to open the system settings, scroll down to "System type" and check whether it says "64-bit" or "32-bit". If it says "32-bit", do _not_ download and install the file above - instead, use the [32 bit installer](https://drive.google.com/file/d/1ZcZ18x-ySgmdVI7_RnoiXUb2B4IjtJgC/view?usp=sharing).     
+     Note: if you have an older computer, you will need to check whether you have a 32 bit or 64 bit version of Windows. To do this, click [here](ms-settings:about?activationSource=SMC-Article-15056) to open the system settings, scroll down to "System type" and check whether it says "64-bit" or "32-bit". If it says "32-bit", do _not_ download and install the file above - instead, use the [32 bit installer](https://drive.google.com/uc?export=download&id=1VbsuuO-1zGLq-r8RjxN37Ff_WXfADRno).     
      
-  2. Download [XLKitLearn.xlsm](https://drive.google.com/file/d/1AX4xT9XpZCs-8eCCq-pNaNmBYM8WQbwR/view?usp=sharing). This file contains the add-in itself. Every time you want to use the add-in, create a copy of this file, and bring your data into it.
+  2. Download [XLKitLearn.xlsm](https://drive.google.com/uc?export=download&id=1-EIEUNAtWenpJC-5uXqzlziJ8EuUW8Bc). This file contains the add-in itself. Every time you want to use the add-in, create a copy of this file, and bring your data into it.
   
   3. Open the file XLKitLearn.xlsm. Upon opening it, the file will likely be in protected mode. Unprotect it by clicking "Enable Editing":
         ![Click on Enable Editing](/files/images/xlkitlearn/unprotect.jpg)
@@ -69,7 +69,7 @@ Note: I would usually test this myself on a Mac a borrow from ITG. Unfortunately
         
      The command should take between 2 and 5 minutes to run, and end with the text ``Successfully installed XLKitLearn!`` in green.
      
-  3. Download [XLKitLearn.xlsm](https://drive.google.com/file/d/1AX4xT9XpZCs-8eCCq-pNaNmBYM8WQbwR/view?usp=sharing). This file contains the add-in itself. Every time you want to use the add-in, create a copy of this file, and bring your data into it.
+  3. Download [XLKitLearn.xlsm](https://drive.google.com/uc?export=download&id=1-EIEUNAtWenpJC-5uXqzlziJ8EuUW8Bc). This file contains the add-in itself. Every time you want to use the add-in, create a copy of this file, and bring your data into it.
   
   3. Open the file XLKitLearn.xlsm. Upon opening it, you should be asked to enable Macros:
         
