@@ -23,9 +23,9 @@ The code is available for your perusal and copyrighted (for now, until I figure 
 
 # Installing the add-in
 
-Jump to installation instructions for [PC](#installation-instructions---pc) or [Mac](#installation-instructions---mac).
-
 XLKitLearn will likely require you to have administrative rights, both for installation and use. I have also heard anecdotal evidence that antivirus/antimalware software can prevent the addin from running. If you find that Excel shuts down every time you try to run it, feel free to contact [xlkitlearn@guetta.com](mailto:xlkitlearn@guetta.com) to see if it's an issue we've encoutered before.
+
+Jump to installation instructions for [PC](#installation-instructions---pc) or [Mac](#installation-instructions---mac).
 
 ## Installation instructions - PC
 
@@ -61,7 +61,7 @@ If you reached this point, congratulations - you're done! You may want to look a
   
         ```curl -sSL https://xlwings.s3.amazonaws.com/xlkitlearn/installer.sh | sudo bash```
         
-     The command should take a few minutes to run, and end with the text ``Successfully installed XLKitLearn!``.
+     The command should take between 2 and 5 minutes to run, and end with the text ``Successfully installed XLKitLearn!`` in green.
      
   3. Download XLKitLearn.xlsm. This file contains the add-in itself. Every time you want to use the add-in, create a copy of this file, and bring your data into it.
   3. Open the file XLKitLearn.xlsm. Upon opening it, you should be asked to enable Macros:
