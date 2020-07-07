@@ -29,8 +29,12 @@ Jump to installation instructions for [PC](#installation-instructions---pc) or [
 
 ## Installation instructions - PC
 
-  1. Download XLKitLearn.exe and install it.
-  2. Download XLKitLearn.xlsm. This file contains the add-in itself. Every time you want to use the add-in, create a copy of this file, and bring your data into it.
+  1. Download the [XLKitLearn installer](https://drive.google.com/file/d/19q-oVIC1OXSDQ0qsBG3kGtrheegXOz3z/view?usp=sharing) and install it.
+  
+     Note: if you have an older computer, you will need to check whether you have a 32 bit or 64 bit version of Windows. To do this, click [here](ms-settings:about?activationSource=SMC-Article-15056) to open the system settings, scroll down to "System type" and check whether it says "64-bit" or "32-bit". If it says "32-bit", do _not_ download and install the file above - instead, use the [32 bit installer](https://drive.google.com/file/d/1ZcZ18x-ySgmdVI7_RnoiXUb2B4IjtJgC/view?usp=sharing).     
+     
+  2. Download [XLKitLearn.xlsm](https://drive.google.com/file/d/1AX4xT9XpZCs-8eCCq-pNaNmBYM8WQbwR/view?usp=sharing). This file contains the add-in itself. Every time you want to use the add-in, create a copy of this file, and bring your data into it.
+  
   3. Open the file XLKitLearn.xlsm. Upon opening it, the file will likely be in protected mode. Unprotect it by clicking "Enable Editing":
         ![Click on Enable Editing](/files/images/xlkitlearn/unprotect.jpg)
      You will then be asked to enable Macros. Make sure you do:
@@ -53,17 +57,20 @@ If you reached this point, congratulations - you're done! You may want to look a
 
 ## Installation instructions - Mac
 
+Note: I would usually test this myself on a Mac a borrow from ITG. Unfortunately, due to Corona, I haven't been able to borrow a Mac and I've had to rely on other peoples' Macs to test this. If you find that any of the instructions below are innacurate, or there are extra steps you have to go through, I would be so grateful if you let me know (with screenshots) by emailing ba2@guetta.com so that I can update the instructions.
+
   1. Bring up Spotlight Search by pressing ``Command + Space``, and type “terminal” in the search bar. Click on the terminal icon
   
         <img src="/files/images/xlkitlearn/terminal.jpg" width="45%">
         
   2. Copy and paste the following words _exactly_ into the terminal
   
-        ```curl -sSL https://xlwings.s3.amazonaws.com/xlkitlearn/installer.sh | sudo bash```
+        ```curl -sSL https://danguetta.github.io/files/xlkitlearn/installer.sh | sudo bash```
         
      The command should take between 2 and 5 minutes to run, and end with the text ``Successfully installed XLKitLearn!`` in green.
      
-  3. Download XLKitLearn.xlsm. This file contains the add-in itself. Every time you want to use the add-in, create a copy of this file, and bring your data into it.
+  3. Download [XLKitLearn.xlsm](https://drive.google.com/file/d/1AX4xT9XpZCs-8eCCq-pNaNmBYM8WQbwR/view?usp=sharing). This file contains the add-in itself. Every time you want to use the add-in, create a copy of this file, and bring your data into it.
+  
   3. Open the file XLKitLearn.xlsm. Upon opening it, you should be asked to enable Macros:
         
         <img src="/files/images/xlkitlearn/mac_macros.jpg" width="45%">
@@ -71,7 +78,9 @@ If you reached this point, congratulations - you're done! You may want to look a
   4. Once the file opens, enter your email address in the lower part of the screen. Then, click on the _first_ run button near the top of the add-in:
   
         <img src="/files/images/xlkitlearn/test_addin.jpg" width="65%">
-        
+     
+     You will be asked to allow access to Python; if you're reading this and you go through this step, I would appreciate it if you could email me at ba2@guetta.com with details of exactly when this step happens and a screenshot of what to do so that I can upload it here.
+     
      The button should turn grey and the sheet should display the addin's progress. Let it run until a new sheet appears in your Excel. If you haven't used the add-in for a while, or are using it for the first time, it is normal for Python to take a little while to load, but the entire process should take no more than 2 minutes at most.
    
   5. If the add-in runs successfully, the following screen should show up (note that the contents of cell D13 have been obscured. If you are installing this add-in as part of a class, your instructor might ask you to report the value in that cell to verify you've installed the add-in correctly):
