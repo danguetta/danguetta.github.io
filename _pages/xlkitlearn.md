@@ -81,7 +81,7 @@ Note: I would usually test this myself on a Mac a borrow from ITG. Unfortunately
         
         <img src="/files/images/xlkitlearn/mac_macros.jpg" width="45%">
      
-     You will then be asked to grant access to three directories on your computer - to do this, click on "Select" in the window that pops up, and then click on "Grant Access". You should only need to do this once.
+     You will then be asked to grant access to up to three directories on your computer - to do this, click on "Select" in the window that pops up, and then click on "Grant Access". Once you have granted access to these three directories, you shouldn't need to do it again.
      
         <img src="/files/images/xlkitlearn/sandbox.png" width="100%">
   
