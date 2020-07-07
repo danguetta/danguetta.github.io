@@ -81,11 +81,11 @@ Note: I would usually test this myself on a Mac a borrow from ITG. Unfortunately
         
         <img src="/files/images/xlkitlearn/mac_macros.jpg" width="45%">
      
-     You will then be asked to grant access to up to three directories on your computer - to do this, click on "Select" in the window that pops up, and then click on "Grant Access". Once you have granted access to these three directories, you shouldn't need to do it again.
+  5. You will then be asked to grant access to up to three directories on your computer - to do this, click on "Select" in the window that pops up, and then click on "Grant Access". Once you have granted access to these three directories, you shouldn't need to do it again.
      
         <img src="/files/images/xlkitlearn/sandbox.png" width="100%">
   
-  5. Once the file opens, enter your email address in the lower part of the screen. Then, click on the _first_ run button near the top of the add-in:
+  6. Once the file opens, enter your email address in the lower part of the screen. Then, click on the _first_ run button near the top of the add-in:
   
         <img src="/files/images/xlkitlearn/test_addin.jpg" width="65%">
      
@@ -93,11 +93,11 @@ Note: I would usually test this myself on a Mac a borrow from ITG. Unfortunately
      
      The button should turn grey and the sheet should display the addin's progress. Let it run until a new sheet appears in your Excel. If you haven't used the add-in for a while, or are using it for the first time, it is normal for Python to take a little while to load, but the entire process should take no more than 2 minutes at most.
    
-  6. If the add-in runs successfully, the following screen should show up (note that the contents of cell D13 have been obscured. If you are installing this add-in as part of a class, your instructor might ask you to report the value in that cell to verify you've installed the add-in correctly):
+  7. If the add-in runs successfully, the following screen should show up (note that the contents of cell D13 have been obscured. If you are installing this add-in as part of a class, your instructor might ask you to report the value in that cell to verify you've installed the add-in correctly):
   
         <img src="/files/images/xlkitlearn/addin_run.jpg" width="65%">
   
-  7. Finally, go back to the "Add-in" sheet, and click on the other button ("Edit Settings"). Make sure you click on the first, upper “Edit Settings” button – not the lower one. The following window should pop-up:
+  8. Finally, go back to the "Add-in" sheet, and click on the other button ("Edit Settings"). Make sure you click on the first, upper “Edit Settings” button – not the lower one. The following window should pop-up:
   
         <img src="/files/images/xlkitlearn/addin_window.jpg" width="45%">  
 
