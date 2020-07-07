@@ -9,7 +9,7 @@ author_profile: true
 
 I wrote XLKitLearn to give students access to the full power of [scikit-learn](https://scikit-learn.org/stable/) using an Excel interface. Students use it to fit random forests, boosted trees, and carry out Latent Dirichlet Allocation on large datasets, all in Excel. It has changed the way I teach data science and analytics, in my [Business Analytics 2](/teaching/ba2) class.
 
-Why design a brand new tool when there are others out there? See [below](#why-design-a-brand-new-tool) for my rationale. Ready to give it a try? See the [installation instructions](#installing-the-add-in) and [quick demos](#two-quick-demos) below.
+Why design a brand new tool when there are others out there? See [below](#why-design-a-brand-new-tool) for my rationale. Ready to give it a try? See the installation instructions ([PC](#installation-instructions---pc) and [Mac](#installation-instructions---mac)) and [quick demos](#two-quick-demos) below.
 
 Here are the highlights
   - Ability to fit a number of linear and tree-based predictive analytic models, as well as basic text analytic capability (encoding, and Latent Dirichlet Allocation)
@@ -66,16 +66,26 @@ Note: I would usually test this myself on a Mac a borrow from ITG. Unfortunately
   2. Copy and paste the following words _exactly_ into the terminal
   
         ```curl -sSL https://danguetta.github.io/files/xlkitlearn/installer.sh | sudo bash```
-        
-     The command should take between 2 and 5 minutes to run, and end with the text ``Successfully installed XLKitLearn!`` in green.
+     
+     and then press enter. You will be asked for your password, which you should enter:
+     
+        <img src="/files/images/xlkitlearn/console_password.png" width="45%">        
+     
+     The command should take between 2 and 5 minutes to run, and end with the text ``Successfully installed XLKitLearn!`` in green. When it has finished running, it will look something like this:
+     
+        <img src="/files/images/xlkitlearn/console_end.png" width="45%"> 
      
   3. Download [XLKitLearn.xlsm](https://drive.google.com/uc?export=download&id=1-EIEUNAtWenpJC-5uXqzlziJ8EuUW8Bc). This file contains the add-in itself. Every time you want to use the add-in, create a copy of this file, and bring your data into it.
   
-  3. Open the file XLKitLearn.xlsm. Upon opening it, you should be asked to enable Macros:
+  4. Open the file XLKitLearn.xlsm. Upon opening it, you should be asked to enable Macros:
         
         <img src="/files/images/xlkitlearn/mac_macros.jpg" width="45%">
+     
+     You will then be asked to grant access to three directories on your computer - to do this, click on "Select" in the window that pops up, and then click on "Grant Access". You should only need to do this once.
+     
+        <img src="/files/images/xlkitlearn/sandbox.png" width="100%">
   
-  4. Once the file opens, enter your email address in the lower part of the screen. Then, click on the _first_ run button near the top of the add-in:
+  5. Once the file opens, enter your email address in the lower part of the screen. Then, click on the _first_ run button near the top of the add-in:
   
         <img src="/files/images/xlkitlearn/test_addin.jpg" width="65%">
      
@@ -83,11 +93,11 @@ Note: I would usually test this myself on a Mac a borrow from ITG. Unfortunately
      
      The button should turn grey and the sheet should display the addin's progress. Let it run until a new sheet appears in your Excel. If you haven't used the add-in for a while, or are using it for the first time, it is normal for Python to take a little while to load, but the entire process should take no more than 2 minutes at most.
    
-  5. If the add-in runs successfully, the following screen should show up (note that the contents of cell D13 have been obscured. If you are installing this add-in as part of a class, your instructor might ask you to report the value in that cell to verify you've installed the add-in correctly):
+  6. If the add-in runs successfully, the following screen should show up (note that the contents of cell D13 have been obscured. If you are installing this add-in as part of a class, your instructor might ask you to report the value in that cell to verify you've installed the add-in correctly):
   
         <img src="/files/images/xlkitlearn/addin_run.jpg" width="65%">
   
-  6. Finally, go back to the "Add-in" sheet, and click on the other button ("Edit Settings"). Make sure you click on the first, upper “Edit Settings” button – not the lower one. The following window should pop-up:
+  7. Finally, go back to the "Add-in" sheet, and click on the other button ("Edit Settings"). Make sure you click on the first, upper “Edit Settings” button – not the lower one. The following window should pop-up:
   
         <img src="/files/images/xlkitlearn/addin_window.jpg" width="45%">  
 
