@@ -11,7 +11,7 @@ I wrote XLKitLearn to give students access to the full power of [scikit-learn](h
 
 Why design a brand new tool when there are others out there? See [below](#why-design-a-brand-new-tool) for my rationale. Ready to give it a try? See the installation instructions ([PC](#installation-instructions---pc) and [Mac](#installation-instructions---mac)) and [quick demos](#two-quick-demos) below.
 
-<img src="/files/images/xlkitlearn/xlkitlearn.jpg" width="80%">
+<img src="/files/images/xlkitlearn/xlkitlearn.JPG" width="80%">
 
 Here are the highlights
   - Ability to fit a number of linear and tree-based predictive analytic models, as well as basic text analytic capability (encoding, and Latent Dirichlet Allocation)
