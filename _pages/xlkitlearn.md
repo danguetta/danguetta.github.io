@@ -107,7 +107,7 @@ If you reached this point, congratulations - you're done! You may want to look a
 
 Here are two short videos that demonstrate the basics of the [predictive analytics](https://www.youtube.com/watch?v=gBSiMRuHMr0) and [text analytics](https://www.youtube.com/watch?v=erCp2K81y2o) capabilities of XLKitLearn.
 
-You might also be interested in this [introductory video](https://drive.google.com/file/d/1k5TsDjVQb4stIRkLfs4Rscm4-hbpqihZ/view?usp=sharing) I use to introduce the add-in in my classes; it discusses the general mechanics of changing the add-in settings and running it.
+You might also be interested in this [introductory video](https://drive.google.com/file/d/1zu2xxmaKV6MfrkYeciTwIx-6Yoxeau8r/view?usp=sharing) I use to introduce the add-in in my classes; it discusses the general mechanics of changing the add-in settings and running it.
 
 A more detailed user manual is forthcoming!
 
