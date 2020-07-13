@@ -69,7 +69,7 @@ Note: I would usually test this myself on a Mac a borrow from ITG. Unfortunately
   
         ```curl -sSL https://danguetta.github.io/files/xlkitlearn/installer.sh | sudo bash```
      
-     and then press enter. You will be asked for your password, which you should enter:
+     and then press enter (note: even on newer mac OS systems using a different default shell, you must use bash - if you don't understand what this bracket means, ignore it). You will be asked for your password, which you should enter:
      
         <img src="/files/images/xlkitlearn/console_password.png" width="45%">        
      
