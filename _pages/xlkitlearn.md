@@ -91,23 +91,8 @@ Note: I would usually test this myself on a Mac a borrow from ITG. Unfortunately
   
         <img src="/files/images/xlkitlearn/test_addin.jpg" width="65%">
           
-     The button should turn grey and the sheet should display the addin's progress. Let it run until a new sheet appears in your Excel. If you haven't used the add-in for a while, or are using it for the first time, it is normal for Python to take a little while to load, but the entire process should take no more than 2 minutes at most.
+     The button should turn grey and the sheet should display the addin's progress. Let it run until a new sheet appears in your Excel. If you haven't used the add-in for a while, or are using it for the first time, it is normal for Python to take a little while to load, but the entire process should take no more than 2 minutes at most. (If you get an error at this stage that says the developer cannot be verified, click [here](/xlkitlearn_mac_error)).
      
-     <details>
-    <summary>Error at this stage? Click here the arrow to the left of this text</summary>
-        On some Newer versions of Mac, you will get an error at this stage that reads
-        
-               ```"Python3.8" cannot be opened because the developer cannot be verified.```
-        
-        If this happens, click on "Cancel". Then, go to Settings > Security & Privacy > General. The following message should come up there
-        
-                ```"Python3.8" was blocked from use because it is not from an identified developer.```
-        
-        Click on "Allow Anyway". (Note: if you're going through this process and you wouldn't mind taking a screenshot of this and sending it to me to benefit future students, I'd appreciate it!)
-        
-        Once you've done this, try and click the "Run" button again. You should get the same error message, but now the message box should have an "Open" option. Click on it, and things should run normally.
-    </details>
-   
   7. If the add-in runs successfully, the following screen should show up (note that the contents of cell D13 have been obscured. If you are installing this add-in as part of a class, your instructor might ask you to report the value in that cell to verify you've installed the add-in correctly):
   
         <img src="/files/images/xlkitlearn/addin_run.jpg" width="65%">
