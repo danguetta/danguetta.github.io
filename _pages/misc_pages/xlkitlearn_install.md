@@ -11,8 +11,6 @@ Nevertheless, I've written this page with potential solutions that _might_ work 
 
 These solutions replace the first step of the add-in installation (either installing ```XLKitLearn.exe``` or running that command in your command line terminal on a Mac). If you're having issues *later* in the process (when you click the ```Run``` button in Excel) these instructions won't help you.
 
-I'll list solutions here in order of increasing complexity - try them in order.
-
 # Method 1 (Windows)
 
 Go to the start menu, search for ```cmd``` and open a command prompt. Type ```echo %LOCALAPPDATA%``` and press enter. The terminal will print out a path (in my case in the screenshot below, it was ```C:\Users\crg2133\AppData\Local```). Copy this folder path somewhere for later.
