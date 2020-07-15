@@ -22,7 +22,7 @@ These are organized in rough chronological order.
       * [Condensed Notes](/files/notes/cu/convex_optimization.pdf) roughly following two courses I took - "Foundations of Optimization" (thought by Prof Ciamac Moallemi) and "Convex Optimization" (thought by Prof Garud Iyengar). These notes are also heavily based on Boyd and Vandenberghe's book "Convex Optimization" (available [online](http://www.stanford.edu/~boyd/cvxbook/)) and Luenberger's "Optimization by Vector Space Methods". The chapter numbers in these notes refer to Boyd and Vandenberghe's text. Rough list of topics covered: convexity of sets and functions, formulation of convex programs (from linear programs to semi-definite programs), duality, applications, Hilbert and Banach spaces, minimum-norm problems in Banach spaces, the Hahn-Banach Theorem.
       * [Notes](/files/notes/cu/opt_foundations.pdf) covering more technical material in the "Foundations of Optimization" class above, including duality, KKT conditions, no-convex program and more.
       * A copy of the [cheat sheet](/files/notes/cu/cheat_deterministic.pdf] I used for the deterministic part of my qualifying exams.
-  - Some [notes](/files/notes/cu/game_theory.pdf) on game theory based on "Microeconomic Thery" taken during a course by Prof Paolo Siconolfi.
+  - Some [notes](/files/notes/cu/game_theory.pdf) on game theory based on "Microeconomic Theory" taken during a course by Prof Paolo Siconolfi.
       
 # University of Cambridge - Part III Mathematics/Certificate of Advanced Study in Mathematics/Masters of Mathematics
 
