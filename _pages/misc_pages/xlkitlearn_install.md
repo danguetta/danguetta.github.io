@@ -21,9 +21,9 @@ Download [this zip file](https://drive.google.com/file/d/12oa3CnNC-_Maot4LZsScn0
 
 # Method 2 (Mac)
 
-First, check that the default version of Python on your computer is Python 3. To do this, go to a terminal using the instructions on the main XLKitLearn Mac installation [instructions](/xlkitlearn/#installation-instructions---mac). In that terminal, type ```python --version``` and press enter. If the resulting version number does not start with a 3, or if you get an error, you first need to install Python 3. The easiest way to do this is to go to [this page](https://www.anaconda.com/products/individual) and download the Python 3 graphical installer.
+First, check that the default version of Python on your computer is Python 3. To do this, go to a terminal using the instructions on the main XLKitLearn [Mac installation instructions](/xlkitlearn/#installation-instructions---mac). In that terminal, type ```python --version``` and press enter. If the resulting version number does not start with a 3, or if you get an error, you first need to install Python 3. The easiest way to do this is to go to [this page](https://www.anaconda.com/products/individual) and download the Python 3 graphical installer.
 
-Once you have Python 3 install, you need to make sure you have all the packages XLKitLearn will need. The easiest way to do this is to go to your terminal again, and run the following command by typing it in and pressing "enter":
+Once you have Python 3 installed, you need to make sure you have all the packages XLKitLearn will need. The easiest way to do this is to go to your terminal again, and run the following command by typing it in and pressing "enter":
 
 ```pip install xlwings==0.19.5 pandas=1.0.5 patsy=0.5.1 numpy=1.18.5 scikit-learn=0.23.1 matplotlib=3.2.2 seaborn=0.10.1 nltk=3.5 requests=2.24.0 statsmodels=0.11.1 appscript=1.1.0 psutil=5.7.0 cryptography=2.9.2 xlrd=1.2.0```
 
