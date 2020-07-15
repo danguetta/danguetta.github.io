@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Developer not verified error on a Mac"
+title: "Alternative Installation Instructions"
 permalink: /xlkitlearn_install
 author_profile: true
 ---
