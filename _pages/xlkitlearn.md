@@ -65,7 +65,7 @@ Note: I would usually test this myself on a Mac a borrow from ITG. Unfortunately
   
         <img src="/files/images/xlkitlearn/terminal.jpg" width="45%">
         
-  2. Copy and paste the following words _exactly_ into the terminal
+  2. Copy and paste the following words _exactly_ into the terminal (note: if you do not have administrative access to your computer, you can try the line below without the word ```sudo```; if it doesn't work, you might have to request administrative access)
   
         ```curl -sSL https://danguetta.github.io/files/xlkitlearn/installer.sh | sudo bash```
      
