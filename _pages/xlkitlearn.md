@@ -5,7 +5,7 @@ permalink: /xlkitlearn/
 author_profile: true
 ---
 
-*Current version: 10.7*
+*Current version: 10.8*
 
 I wrote XLKitLearn to give students access to the full power of [scikit-learn](https://scikit-learn.org/stable/) using an Excel interface. Students use it to fit random forests, boosted trees, and carry out Latent Dirichlet Allocation on large datasets, all in Excel. It has changed the way I teach data science and analytics, in my [Business Analytics 2](/teaching/ba2) class.
 
