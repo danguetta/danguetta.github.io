@@ -65,9 +65,9 @@ Note: I would usually test this myself on a Mac a borrow from ITG. Unfortunately
   
         <img src="/files/images/xlkitlearn/terminal.jpg" width="45%">
         
-  2. Copy and paste the following words _exactly_ into the terminal (note: if you do not have administrative access to your computer, you can try the line below without the word ```sudo```; if it doesn't work, you might have to request administrative access)
+  2. Copy and paste the following words _exactly_ into the terminal
   
-        ```curl -sSL https://danguetta.github.io/files/xlkitlearn/installer.sh | sudo bash```
+        ```curl -sSL https://danguetta.github.io/files/xlkitlearn/installer.sh | bash```
      
      and then press enter (note: even on newer mac OS systems using a different default shell, you must use bash - if you don't understand what this bracket means, ignore it). You will be asked for your password, which you should enter (this is the password you use to log in to your computer):
      
