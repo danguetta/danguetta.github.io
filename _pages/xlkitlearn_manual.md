@@ -21,7 +21,13 @@ XLKitLearn is able to fit model based on data
 
 ## Specifying a Predictive Model
 
-To fit a predictive model, XLKitLearn needs to know the variable that needs to be predicted (the dependent variable) as well as the variables that should be used to predict it (the independent variables). XLKitLearn leverages the [patsy](https://patsy.readthedocs.io/en/latest/) library to allow the specification of these variables as a _Patsy formula_ (similar but not identical to [R](https://www.r-project.org/)-style formulas). It also adds a number of [features](#advanced-xlkitlearn-formulas) above and beyond those available in Patsy.
+XLKitLearn predictive models comprise two main ingredients:
+  - The predictive model to be used, and any parameters required to fit this model.
+  - The variable that needs to be predicted (the dependent variable) as well as the variables that should be used to predict it (the independent variables).
+  
+The model can be selected among [models avilable](#supported-predictive-models) in the "model" dropdown, and its parameters can be specified in the "Parameter(s)" box below.
+
+To specify the dependent and independent variables, XLKitLearn leverages the [patsy](https://patsy.readthedocs.io/en/latest/) library to allow the specification of these variables as a _Patsy formula_ (similar but not identical to [R](https://www.r-project.org/)-style formulas). It also adds a number of [features](#advanced-xlkitlearn-formulas) above and beyond those available in Patsy.
 
 The basic structure of each formula is as follows:
 ```[Dependent Variable] ~ [Independent Variable 1] + [Independent Var. 2] + ...```
@@ -31,6 +37,13 @@ For example, to use the average number of rooms per dwelling and the crime per c
 ```median_property_value ~ av_rooms_per_dwelling + crime_per_capita```
 
 Formulas can be typed directly into the formula box of the add-in settings, or using the [formula editor](#the-formula-editor).
+
+### Supported predictive models
+
+XLKitLearn supports the following predictive models
+  - *Linear and logistic regression*; if this option is selected, XLKitLearn will automatically determine whether a continuous [linear regression](https://en.wikipedia.org/wiki/Linear_regression) model or a binary [logistic regression](https://en.wikipedia.org/wiki/Logistic_regression) model should be used. If the dependent variable in the model contains 0s or 1s only (_or_ if the dependent variable is a [logical statement](#logical-dependent-var)), a logistic regression model will be used. Otherwise, a linear regression model will be used. Note that XLKitLearn does not support classification models with more than two possible outcomes.
+  - *Decision tree*; if this option is selected, XLKitLearn will fit a simple [decision tree](https://en.wikipedia.org/wiki/Decision_tree_learning) using CART.
+  - lk
 
 ### The Formula Editor
 
@@ -51,5 +64,7 @@ As in other parts of the add-in, a red input box indicates an error in the formu
   - standardization
   - python formulas
   - removing the intercept
+  
+<a name="logical-dependent-var"></a>
 
 # The Text Analytics Add-in
