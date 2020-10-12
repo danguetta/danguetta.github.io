@@ -9,15 +9,13 @@ This is a user manual.
 
 * TOC
 {:toc}
-lala
+
 
 # Introduction
 
 # The Predictive Analytics Add-in
 
 ## Selecting data
-
-XLKitLearn is able to fit model based on data
 
 ## Specifying a Predictive Model
 
@@ -47,7 +45,6 @@ XLKitLearn supports the following predictive models. Note that all parameters in
 
 Linear and logistic regression
 : If this option is selected, XLKitLearn will automatically determine whether a continuous [linear regression](https://en.wikipedia.org/wiki/Linear_regression) model or a binary [logistic regression](https://en.wikipedia.org/wiki/Logistic_regression) model should be used. If the dependent variable in the model contains 0s or 1s only (_or_ if the dependent variable is a [logical statement](#logical-dependent-var)), a logistic regression model will be used. Otherwise, a linear regression model will be used. Note that XLKitLearn does not support classification models with more than two possible outcomes.
-:
 : XLKitLearn makes one parameter available for these models - the [Lasso penalty](https://en.wikipedia.org/wiki/Lasso_(statistics)). This parameter should either be specified as a number indicating the weight of the Lasso penalty _or_ can be set to ```BS``` to perform best subset selection.
 
 Decision trees
