@@ -9,10 +9,12 @@ author_profile: true
 
 # The Predictive Analytics Add-in
 
-## The Formula Editor
+## Specifying a Predictive Model
 
 The predictive analytics 
 
-### 
+### The Formula Editor
+
+### Transforming independent variables
 
 # The Text Analytics Add-in
