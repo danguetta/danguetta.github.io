@@ -7,7 +7,9 @@ author_profile: true
 
 This is a user manual.
 
-* TOC {:toc}
+* TOC
+{:toc}
+lala
 
 # Introduction
 
