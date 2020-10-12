@@ -46,12 +46,13 @@ Formulas can be typed directly into the formula box of the add-in settings, or u
 XLKitLearn supports the following predictive models. Note that all parameters in each of these models can be automatically chosen using [K-fold cross-validation](#parameter-tuning-and-k-fold-cross-validation).
 
 Linear and logistic regression
-: if this option is selected, XLKitLearn will automatically determine whether a continuous [linear regression](https://en.wikipedia.org/wiki/Linear_regression) model or a binary [logistic regression](https://en.wikipedia.org/wiki/Logistic_regression) model should be used. If the dependent variable in the model contains 0s or 1s only (_or_ if the dependent variable is a [logical statement](#logical-dependent-var)), a logistic regression model will be used. Otherwise, a linear regression model will be used. Note that XLKitLearn does not support classification models with more than two possible outcomes.
-: XLKitLearn makes one parameter available for these models - the [Lasso penalty](https://en.wikipedia.org/wiki/Lasso_(statistics)). This parameter should either be specified as a number, to 
+: If this option is selected, XLKitLearn will automatically determine whether a continuous [linear regression](https://en.wikipedia.org/wiki/Linear_regression) model or a binary [logistic regression](https://en.wikipedia.org/wiki/Logistic_regression) model should be used. If the dependent variable in the model contains 0s or 1s only (_or_ if the dependent variable is a [logical statement](#logical-dependent-var)), a logistic regression model will be used. Otherwise, a linear regression model will be used. Note that XLKitLearn does not support classification models with more than two possible outcomes.
+:
+: XLKitLearn makes one parameter available for these models - the [Lasso penalty](https://en.wikipedia.org/wiki/Lasso_(statistics)). This parameter should either be specified as a number indicating the weight of the Lasso penalty _or_ can be set to ```BS``` to perform best subset selection.
 
-
-  - *Decision tree*; if this option is selected, XLKitLearn will fit a simple [decision tree](https://en.wikipedia.org/wiki/Decision_tree_learning) using CART.
-  - lk
+Decision trees
+: if this option is selected, XLKitLearn will fit a simple [decision tree](https://en.wikipedia.org/wiki/Decision_tree_learning) using CART.
+: params
 
 ### The Formula Editor
 
