@@ -21,10 +21,35 @@ XLKitLearn is able to fit model based on data
 
 ## Specifying a Predictive Model
 
-XLKitLearn leverages the [patsy](https://patsy.readthedocs.io/en/latest/) library to allow a broad range of model specifications. Models can be specified using Patsy Formulas, which are similar (but not identical) to [R](https://www.r-project.org/)-style formulas.
+To fit a predictive model, XLKitLearn needs to know the variable that needs to be predicted (the dependent variable) as well as the variables that should be used to predict it (the independent variables). XLKitLearn leverages the [patsy](https://patsy.readthedocs.io/en/latest/) library to allow the specification of these variables as a _Patsy formula_ (similar but not identical to [R](https://www.r-project.org/)-style formulas). It also adds a number of [features](#advanced-xlkitlearn-formulas) above and beyond those available in Patsy.
+
+The basic structure of each formula is as follows:
+```[Dependent Variable] ~ [Independent Variable 1] + [Independent Var. 2] + ...```
+Each variable should be referred to by the column headers in the first row of the [training data](#selecting-data).
+
+For example, to use the average number of rooms per dwelling and the crime per capita to predict median property values, the appropriate formula would be
+```median_property_value ~ av_rooms_per_dwelling + crime_per_capita```
+
+Formulas can be typed directly into the formula box of the add-in settings, or using the [formula editor](#the-formula-editor).
 
 ### The Formula Editor
 
-### Transforming independent variables
+XLKitLearn's formula editor can be accessed by clicking on the three dots to the right of the formula box in the add-in settings. For formula editor lists all the headers in the training data on the left, and provides a larger area in which to enter a formula on the right.
+
+> When data from an external file (rather than another sheet in the same Excel workbook) is used, Mac security settings do not allow XLKitLearn to open the file and read the headers. Thus, the formula editor will _not_ work when external data is used on a Mac computer.
+
+The formula editor also supports auto-complete for quicker formula entry. As variable names are typed in the formula entry box, the list on the left is filtered down to variables that begin with those letters, and the first such variable is automatically suggested. Pressing the Tab key will automatically complete the name of that variable:
+
+<img src="/files/images/xlkitlearn/formula_editor.gif" width="50%">
+
+As in other parts of the add-in, a red input box indicates an error in the formula; the specific error will be displayed in the area at the bottom of the formula editor.
+
+### Advanced XLKitLearn Formulas
+
+  - categoricals
+  - dot formulas
+  - standardization
+  - python formulas
+  - removing the intercept
 
 # The Text Analytics Add-in
