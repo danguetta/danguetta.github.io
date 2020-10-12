@@ -5,13 +5,21 @@ permalink: /xlkitlearn_manual/
 author_profile: true
 ---
 
+This is a user manual.
+
+* TOC {:toc}
+
 # Introduction
 
 # The Predictive Analytics Add-in
 
+## Selecting data
+
+XLKitLearn is able to fit model based on data
+
 ## Specifying a Predictive Model
 
-The predictive analytics 
+XLKitLearn 
 
 ### The Formula Editor
 
