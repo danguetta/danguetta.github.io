@@ -32,7 +32,7 @@ if [ -z "$CONDA_DEFAULT_ENV" ];then
     "$INSTALL_DIR"/bin/xlwings runpython install
     printf "${YELLOW}Copying Data${NC}\n"
     mkdir -p "$INSTALL_DIR"/data
-    echo {{version_placeholder}} > "$INSTALL_DIR"/data/version
+    echo 10 > "$INSTALL_DIR"/data/version
     printf "${GREEN}Successfully installed XLKitLearn!${NC}\n"
 else
     printf "${RED}Please deactivate any conda envs by running 'conda deactivate' before running this command again!${NC}\n"
