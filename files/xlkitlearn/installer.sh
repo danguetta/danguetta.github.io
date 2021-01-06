@@ -21,12 +21,8 @@ if [ -z "$CONDA_DEFAULT_ENV" ];then
     # We're not in an activated conda environment and installation can start
     printf "${YELLOW}Cleaning up existing installation${NC}\n"
     rm -rf "$INSTALL_DIR" || true
-    if [ -f /tmp/"$MINICONDA_VERSION".sh ]; then
-        printf "${YELLOW}Using Miniconda from /tmp/"$MINICONDA_VERSION".sh${NC}\n"
-    else
-        printf "${YELLOW}Downloading Miniconda${NC}\n"
-        curl -L https://repo.anaconda.com/miniconda/"$MINICONDA_VERSION".sh -o /tmp/"$MINICONDA_VERSION".sh
-    fi
+    printf "${YELLOW}Downloading Miniconda${NC}\n"
+    curl -L https://repo.anaconda.com/miniconda/"$MINICONDA_VERSION".sh -o /tmp/"$MINICONDA_VERSION".sh
     printf "${YELLOW}Installing Miniconda${NC}\n"
     bash /tmp/"$MINICONDA_VERSION".sh -u -b -p "$INSTALL_DIR"
     printf "${YELLOW}Installing packages${NC}\n"
@@ -36,7 +32,7 @@ if [ -z "$CONDA_DEFAULT_ENV" ];then
     "$INSTALL_DIR"/bin/xlwings runpython install
     printf "${YELLOW}Copying Data${NC}\n"
     mkdir -p "$INSTALL_DIR"/data
-    echo 10 > "$INSTALL_DIR"/data/version
+    echo {{version_placeholder}} > "$INSTALL_DIR"/data/version
     printf "${GREEN}Successfully installed XLKitLearn!${NC}\n"
 else
     printf "${RED}Please deactivate any conda envs by running 'conda deactivate' before running this command again!${NC}\n"
