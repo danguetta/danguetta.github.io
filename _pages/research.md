@@ -17,6 +17,16 @@ See also my [teaching](/teaching) and [notes](/notes) for additional work.
 # Business Analytics
 
 <details>
+  <summary>Mastercard’s Organizational Structure: The Making of a New AI Powerhouse</summary>
+  
+  *with Dan Wang*
+  
+  > Rohit Chauhan, Mastercard’s executive vice president of Artificial Intelligence since 2018, was tasked to lead the organization on a path to become an AI powerhouse. Chauhan believed that in order to accomplish this goal, AI would need to be deployed in every part of the company. Mastercard had identified four areas where AI could generate the greatest value: customer acquisition, portfolio optimization, risk and fraud management, and customer servicing. But it was unclear what organizational structure would help Mastercard to achieve its goal. One was to centralize its AI efforts by creating a new division staffed with AI experts; an alternative was to seed existing divisions with AI staff. In this case, students will consider which organizational structure would serve to maximize AI’s potential— a centralized approach, in which AI experts were assigned to collaborate with colleagues from other divisions on a project-by-project basis; or a decentralized approach, in which expertise and authority were dispersed across divisions.
+  
+  Review copy (stamped 'do not copy') available [here](/files/cases/mastercard.pdf). Published at [Columbia Caseworks](https://www8.gsb.columbia.edu/caseworks/node/867/Mastercard%25E2%2580%2599s%2BOrganizational%2BStructure%253A%2BThe%2BMaking%2Bof%2Ba%2BNew%2BAI%2BPowerhouse), and available there for licensing.
+</details>
+
+<details>
   <summary>From Intuition to Data-Driven Analytics: The Case of Dig</summary>
   
   Dig, a restaurant chain with a menu focused on seasonal produce, intentionally sourced, and offered at an accessible price point, was poised to expand. While the organization had collected and used data from its inception, management realized expansion would require a more systematic approach to driving value using data-driven insights at every stage of this value chain. This case chronicles Dig's journey from intuition to data-driven analytics, from the creation of a solid data foundation to the development of dynamic decision-support tools touching many parts of the company.
