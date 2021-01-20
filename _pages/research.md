@@ -106,6 +106,16 @@ See also my [teaching](/teaching) and [notes](/notes) for additional work.
 # Supply Chain Management
 
 <details>
+  <summary>At the Frontier of Retail in the 21st Century: Modern Fulfillment and The Case of FlexiWeight</summary>
+  
+  *with Omar Besbes and Carri Chan*
+  
+  > Founded in 2018 with a mission to revolutionize the way America exercises, FlexiWeight had designed an innovative set of compact, Blue-tooth-enabled adjustable weights suitable for at-home use. The concept was an immediate hit and, perhaps fueled by a rise in at-home exercising during the COVID-19 pandemic, the product quickly grew from a niche product to a must-have accessory for workout buffs across the United States. Demand for the product skyrocketed, and the founders realized the ad-hoc shipping and fulfillment systems they were using would not be able to keep up. This case presents students with a historical perspective on companies’ fulfillment challenges and the recent trend to move from a single-channel fulfillment system to a more complex microfulfillment strategy—and asks them to consider the best path forward for Flexiweight.
+  
+  Review copy (stamped 'do not copy') available [here](/files/cases/flexiweight.pdf). Published at [Columbia Caseworks](https://www8.gsb.columbia.edu/caseworks/node/881/At%2Bthe%2BFrontier%2Bof%2BRetail%2Bin%2Bthe%2B21st%2BCentury%253A%2BModern%2BFulfillment%2Band%2BThe%2BCase%2Bof%2BFlexiWeight), and available there for licensing.
+</details>
+
+<details>
   <summary>Two-echelon distribution systems with random demands and storage constraints</summary>
 
   *with Awi Federgruen and Garud Iyengar*
